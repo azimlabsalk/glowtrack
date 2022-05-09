@@ -8,28 +8,28 @@ A system for capturing fluorescent labels for training motion capture models.
 
 The main components of the system are:
 
-- A [geodesic dome](https://github.com/djbutler/cerebro/blob/main/dome.md) for holding lights and cameras
-- An Arduino microcontroller (Arduino Due running [this code](https://github.com/djbutler/cerebro/blob/main/arduino/MultiStrobe/MultiStrobe.ino)) for triggering the cameras and lights
-- [Circuitry](https://github.com/djbutler/cerebro/blob/main/electronics/schematic.pdf) for controlling lights and cameras
-- [Software](https://github.com/djbutler/cerebro/tree/main/wink) for capturing video from cameras
+- A [geodesic dome](https://github.com/azimlabsalk/glowtrack/blob/main/dome.md) for holding lights and cameras
+- An Arduino microcontroller (Arduino Due running [this code](https://github.com/azimlabsalk/glowtrack/blob/main/arduino/MultiStrobe/MultiStrobe.ino)) for triggering the cameras and lights
+- [Circuitry](https://github.com/azimlabsalk/glowtrack/blob/main/electronics/schematic.pdf) for controlling lights and cameras
+- [Software](https://github.com/azimlabsalk/glowtrack/tree/main/wink) for capturing video from cameras
 
 ## Dome & circuitry
 
-To reproduce our hardware setup, we recommend examining our description of the [geodesic dome](https://github.com/djbutler/cerebro/blob/main/dome.md) and the schematic of the [circuitry](https://github.com/djbutler/cerebro/blob/main/electronics/schematic.pdf).
+To reproduce our hardware setup, we recommend examining our description of the [geodesic dome](https://github.com/azimlabsalk/glowtrack/blob/main/dome.md) and the schematic of the [circuitry](https://github.com/azimlabsalk/glowtrack/blob/main/electronics/schematic.pdf).
 
 ## Arduino
 
 1. Install the Arduino IDE
 2. From the Arduino IDE, open `arduino/MultiStrobe/MultiStrobe.ino`
 3. Attach your Arduino to your computer via USB and upload the MultiStrobe code to it
-4. Unplug the Arduino from your computer, and connect your lights and cameras to it (see [our schematic](https://github.com/djbutler/cerebro/blob/main/electronics/schematic.pdf) for one example)
+4. Unplug the Arduino from your computer, and connect your lights and cameras to it (see [our schematic](https://github.com/azimlabsalk/glowtrack/blob/main/electronics/schematic.pdf) for one example)
 5. Attach the Arduino to your computer again, and initiate image capture by running a video capture script (see our example code)
 
 ## Video capture
 
-For video capture, we wrote code that uses the Basler Pylon API. First, we wrote a python package called [wink](https://github.com/djbutler/cerebro/blob/main/wink/src/python/wink). This code was performant enough to capture from up to four USB3 cameras. In order to capture from all eight cameras, we also wrote a [C++ script](https://github.com/djbutler/cerebro/blob/main/wink/src/c++/Grab_MultipleCameras.cpp). Depending on your specific needs, one or the other may be more convenient, so we provide both. Note that the C++ code depends on the python package for sending serial commands to the Arduino, but this dependency could easily be removed. 
+For video capture, we wrote code that uses the Basler Pylon API. First, we wrote a python package called [wink](https://github.com/azimlabsalk/glowtrack/blob/main/wink/src/python/wink). This code was performant enough to capture from up to four USB3 cameras. In order to capture from all eight cameras, we also wrote a [C++ script](https://github.com/azimlabsalk/glowtrack/blob/main/wink/src/c++/Grab_MultipleCameras.cpp). Depending on your specific needs, one or the other may be more convenient, so we provide both. Note that the C++ code depends on the python package for sending serial commands to the Arduino, but this dependency could easily be removed. 
 
-To install the python package, follow the instructions in the [wink README](https://github.com/djbutler/cerebro/blob/main/wink/README.md).
+To install the python package, follow the instructions in the [wink README](https://github.com/azimlabsalk/glowtrack/blob/main/wink/README.md).
 
 To build the C++ script:
 
