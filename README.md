@@ -45,6 +45,7 @@ To capture video clips:
 
 Description of parameters:
 
+```
 EVERY_NTH - Along with BATCH_SIZE, helps determine how many image pairs (each containing one visible and one UV image) to drop between capture batches. A value of 1 indicates that a batch is initiated at every frame pair, while a value of 50 means that a batch is initiated on every 50th image pair. EVERY_NTH must be at least 1 and greater than or equal to BATCH_SIZE.
 
 BUFFER_SIZE - How many image pairs to store in a temporary buffer while not actively recording a clip. When you start recording a clip, the buffer is included at the beginning of the recording, effectively allowing you to record into the past. This is useful if you are capturing brief events like a mouse reaching for a food pellet.
@@ -53,10 +54,10 @@ BATCH_SIZE - How many image pairs to capture in a batch. BATCH_SIZE must be at l
 
 Example 1: ./capture.sh [DATA_DIR] 1 100 1
 
-  This means to capture every image pair, and to buffer the most recent 100 pairs (which are immediately saved when a clip is recorded).
+  This means: 1. capture every image pair, and 2. buffer the most recent 100 image pairs (which are immediately saved when a clip is recorded).
 
 Example 2: ./capture.sh [DATA_DIR] 50 0 2
 
-  This means to repeatedly capture 2 image pairs then drop 48 image pairs, and not to buffer any pairs.
+  This means: 1. repeatedly capture 2 image pairs then drop 48 image pairs, and 2. do not to buffer any image pairs.
 
-
+```
