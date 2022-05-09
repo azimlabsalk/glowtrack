@@ -1,0 +1,11 @@
+Good (doesn't drop frames):
+
+  python pipeline_capture_video.py --num-cams 4 --num-frames 2000 --deinterlace 1 --quality 10 four-cam
+  python pipeline_capture_video.py --num-cams 5 --num-frames 2000 --deinterlace 0 --quality 10 five-cam
+  python pipeline_capture_multivideo.py --num-cams 4 --num-frames 2000 --deinterlace 1 --quality 10 four-cam
+
+Bad (does drop frames):
+
+  python pipeline_capture_video.py --num-cams 5 --num-frames 2000 --deinterlace 1 --quality 10 five-cam
+  python pipeline_capture_multivideo.py --num-cams 5 --num-frames 2000 --deinterlace 0 --quality 10 five-cam
+  python pipeline_capture_multivideo.py --num-cams 5 --num-frames 2000 --deinterlace 1 --quality 10 five-cam

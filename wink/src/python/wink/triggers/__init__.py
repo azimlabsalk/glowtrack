@@ -1,0 +1,1 @@
+from wink.triggers.arduino_camera_trigger import ArduinoCameraTrigger
