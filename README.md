@@ -1,6 +1,6 @@
-# Cerebro
+# GlowTrack 
 
-A system for capturing fluorescent labels for training motion capture models.
+A system for training motion capture models via fluorescence labeling.
 
 *NOTE*: The code in this repository is intended to serve as a reference for others who want to implement a similar system. It has not been extensively tested. We found it to be sufficient to serve as a proof-of-principle for research purposes. However, for applications with more stringent requirements, additional testing and validation would be necessary.
 
