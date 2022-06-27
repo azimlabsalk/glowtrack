@@ -22,13 +22,13 @@ The images of mice and the human hand in Fig. 2, Fig. 3ef, Fig. 5, Fig. 6, Supp.
 
 The code and designs for the video capture rig shown in Fig. 3 are located in `capture/`.
 
-The precision-recall curves and error quartile plots in Fig. 3gh, Fig. 4e, Fig. 6eik, Supp. Fig. 3, and Supp. Fig. 4b were generated with the scripts in `yogi/scripts`. These scripts rely on evaluation code in `yogi/yogi/evaluation.py`.
+The precision-recall curves and error quartile plots in Fig. 3gh, Fig. 4e, Fig. 6eik, Supp. Fig. 3, and Supp. Fig. 4b were generated with the scripts in `yogi/scripts/plots`. These scripts rely on evaluation code in `yogi/yogi/evaluation.py`.
 
 The custom image augmentation procedure depicted in Supp. Fig. 1 is implemented in `yogi/yogi/image_aug.py`.
 
 The parallel labeling approach with SIFT features depicted in Fig. 5, Fig. 6, Supp. Fig. 5, Supp. Fig. 6, and Supp. Fig. 7, is implemented in scripts in `yogi/scripts/speckle` and utility code in `yogi/yogi/matching.py`.
 
-The template selection algorithm shown in Supp. Fig. 5 is implemented in `yogi/dependencies/VocabTree2` (modified version of the existing `VocabTree2` code by Noah Snavely). In particular, see `yogi/dependencies/VocabTree2/VocabCover.cpp`.
+The template selection algorithm shown in Supp. Fig. 5 is implemented in `yogi/dependencies/VocabTree2` (modified version of the existing `VocabTree2` code by Noah Snavely). In particular, see `yogi/dependencies/VocabTree2/VocabCover/VocabCover.cpp`.
 
 ## Disclaimer
 
