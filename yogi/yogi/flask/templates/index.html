@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block title %}Yogi - Home{% endblock %}
+
+{% block content %}
+
+<h2>ClipSets</h2>
+
+    {% for clipset in clipsets %}
+        <a href="{{ url_for('clipset', id=clipset.id) }}">
+               ClipSet - {{ clipset.name }}</a><br/>
+    {% endfor %}
+
+<h2>ImageSets</h2>
+
+    {% for imageset in imagesets %}
+        <a href="{{ url_for('imageset', id=imageset.id, limit=1000) }}">
+               ImageSet - {{ imageset.name }}</a><br/>
+    {% endfor %}
+
+<h2>LabelSets</h2>
+
+    {% for labelset in labelsets %}
+        <a href="{{ url_for('labelset', id=labelset.id, limit=1000) }}">
+               LabelSet - {{ labelset.name }}</a><br/>
+    {% endfor %}
+
+{% endblock %}
+

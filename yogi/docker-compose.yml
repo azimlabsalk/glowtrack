@@ -1,0 +1,50 @@
+version: "3.2"
+
+volumes:
+  yogi-db:
+
+services:
+
+  yogi-shell:
+    image: yogi-py
+    ports:
+      - 5000:5000
+      - 8888:8888
+    volumes:
+      - ./yogi:/code/yogi
+      - ./alembic:/code/alembic
+      - ./alembic.ini:/code/alembic.ini
+      - ./scripts:/code/scripts
+      - "$YOGI_VIDEOS:/videos"
+      - "$YOGI_OUTPUT:/output"
+      - "$YOGI_DIR:/home/dbutler/.yogi"
+    environment:
+      YOGI_DIR: '/home/dbutler/.yogi'
+      YOGI_DB_URL: 'postgresql://yogi:yogi@db/postgres'
+      FLASK_ENV: development
+      FLASK_DEBUG: 1
+      LC_ALL: C.UTF-8
+      LANG: C.UTF-8
+    pid: "host"
+    user: "$UID"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities:
+              - gpu
+
+  db:
+    image: postgres:13-alpine
+#    user: "${UID}"
+    restart: always
+    volumes:
+      # - "${YOGI_PSQL_DATA}:/var/lib/postgresql/data"
+      - "yogi-db:/var/lib/postgresql/data"
+    environment:
+      PGDATA: /var/lib/postgresql/data/pgdata
+      POSTGRES_HOST_AUTH_METHOD: password
+      POSTGRES_DB: postgres
+      POSTGRES_USER: yogi
+      POSTGRES_PASSWORD: yogi
+

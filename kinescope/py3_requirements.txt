@@ -1,0 +1,7 @@
+ipython==7.3.0
+opencv-contrib-python==3.4.2.17
+PyQt5==5.12
+pyserial==3.4
+scikit-image==0.14.2
+torch==1.0.1.post2
+torchvision==0.2.1

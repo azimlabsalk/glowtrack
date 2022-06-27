@@ -1,0 +1,1456 @@
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip0/cam3
+max_diff =      55.47, mean_diff =       0.98
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip1/cam0
+max_diff =      16.80, mean_diff =       0.73
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip2/cam2
+max_diff =      37.70, mean_diff =       1.28
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip0/cam1
+max_diff =      56.45, mean_diff =       1.07
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip2/cam0
+max_diff =      38.95, mean_diff =       1.52
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip2/cam3
+max_diff =      35.43, mean_diff =       1.56
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip1/cam3
+max_diff =      25.73, mean_diff =       0.84
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip2/cam1
+max_diff =      36.46, mean_diff =       1.99
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip1/cam2
+max_diff =      20.36, mean_diff =       0.82
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip0/cam2
+max_diff =      30.24, mean_diff =       0.86
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip1/cam1
+max_diff =      22.71, mean_diff =       0.90
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip0/cam0
+max_diff =      34.53, mean_diff =       0.87
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip3/cam2
+max_diff =      36.60, mean_diff =       2.57
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip2/cam1
+max_diff =      39.39, mean_diff =       6.17
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip6/cam0
+max_diff =      22.34, mean_diff =       4.28
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip4/cam3
+max_diff =      49.73, mean_diff =       5.02
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip6/cam1
+max_diff =      59.93, mean_diff =       6.12
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip3/cam3
+max_diff =      45.34, mean_diff =       2.72
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip4/cam1
+max_diff =      72.29, mean_diff =       5.70
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip4/cam2
+max_diff =      68.87, mean_diff =       4.82
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip6/cam2
+max_diff =      24.29, mean_diff =       4.57
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip8/cam2
+max_diff =      66.04, mean_diff =       6.42
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip2/cam0
+max_diff =      35.10, mean_diff =       4.66
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip6/cam3
+max_diff =      29.29, mean_diff =       5.45
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip8/cam0
+max_diff =      61.43, mean_diff =       5.96
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip8/cam3
+max_diff =      65.05, mean_diff =       7.27
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip2/cam3
+max_diff =      36.23, mean_diff =       5.39
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip8/cam1
+max_diff =      81.70, mean_diff =       8.55
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip4/cam0
+max_diff =      42.87, mean_diff =       4.08
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip0/cam2
+max_diff =     120.66, mean_diff =       4.73
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip5/cam0
+max_diff =      21.62, mean_diff =       4.76
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip2/cam2
+max_diff =      29.99, mean_diff =       4.51
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip7/cam0
+max_diff =      59.27, mean_diff =       4.26
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip5/cam2
+max_diff =      37.89, mean_diff =       4.90
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip7/cam2
+max_diff =      70.39, mean_diff =       4.52
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip7/cam1
+max_diff =     112.26, mean_diff =       6.31
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip5/cam1
+max_diff =      55.91, mean_diff =       7.36
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip7/cam3
+max_diff =      84.34, mean_diff =       5.23
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip1/cam0
+max_diff =      74.53, mean_diff =       5.05
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip5/cam3
+max_diff =      40.42, mean_diff =       5.84
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip3/cam1
+max_diff =      55.47, mean_diff =       2.68
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip1/cam3
+max_diff =      95.74, mean_diff =       5.82
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip0/cam1
+max_diff =      77.60, mean_diff =       5.36
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip3/cam0
+max_diff =      28.32, mean_diff =       2.56
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip1/cam2
+max_diff =      92.49, mean_diff =       5.98
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip1/cam1
+max_diff =      96.24, mean_diff =       5.93
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip0/cam3
+max_diff =      40.17, mean_diff =       4.73
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip0/cam0
+max_diff =      34.08, mean_diff =       4.05
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip3/cam1
+max_diff =      65.40, mean_diff =       5.81
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip0/cam3
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip6/cam1
+max_diff =      72.50, mean_diff =       5.58
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip4/cam2
+max_diff =      43.33, mean_diff =       3.20
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip3/cam2
+max_diff =      56.53, mean_diff =       3.96
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip4/cam0
+max_diff =      51.84, mean_diff =       3.42
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip6/cam2
+max_diff =      74.37, mean_diff =       5.01
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip4/cam1
+max_diff =      49.65, mean_diff =       4.41
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip3/cam3
+max_diff =      66.19, mean_diff =       4.35
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip6/cam3
+max_diff =      71.14, mean_diff =       5.12
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip2/cam3
+max_diff =      41.82, mean_diff =       6.48
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip4/cam3
+max_diff =      46.83, mean_diff =       3.71
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip0/cam2
+max_diff =       1.12, mean_diff =       0.37
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip6/cam0
+max_diff =      59.72, mean_diff =       4.68
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip2/cam2
+max_diff =      37.54, mean_diff =       5.39
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip5/cam1
+max_diff =      82.45, mean_diff =       8.32
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip3/cam0
+max_diff =      43.43, mean_diff =       3.88
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip7/cam1
+max_diff =      39.64, mean_diff =       5.63
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip2/cam0
+max_diff =      43.06, mean_diff =       5.21
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip2/cam1
+max_diff =      59.39, mean_diff =       7.98
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip1/cam2
+max_diff =      76.46, mean_diff =       6.52
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip5/cam0
+max_diff =      70.22, mean_diff =       6.98
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip7/cam2
+max_diff =      43.98, mean_diff =       4.32
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip7/cam0
+max_diff =      50.00, mean_diff =       4.03
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip5/cam2
+max_diff =      83.97, mean_diff =       6.53
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip1/cam0
+max_diff =      61.94, mean_diff =       6.56
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip5/cam3
+max_diff =      80.10, mean_diff =       7.35
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip1/cam3
+max_diff =      74.12, mean_diff =       6.94
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip0/cam1
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip7/cam3
+max_diff =      42.19, mean_diff =       5.09
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip1/cam1
+max_diff =      76.23, mean_diff =       8.25
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip0/cam0
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip4/cam1
+max_diff =      48.18, mean_diff =       2.95
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip1/cam0
+max_diff =      45.37, mean_diff =       4.25
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip5/cam1
+max_diff =      66.16, mean_diff =      12.61
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip3/cam0
+max_diff =      33.13, mean_diff =       6.22
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip1/cam3
+max_diff =      56.54, mean_diff =       4.95
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip5/cam2
+max_diff =      38.32, mean_diff =       8.55
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip1/cam2
+max_diff =      58.17, mean_diff =       4.40
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip5/cam0
+max_diff =      48.14, mean_diff =       8.51
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip5/cam3
+max_diff =      58.29, mean_diff =      10.67
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip1/cam1
+max_diff =      69.75, mean_diff =       5.34
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip6/cam1
+max_diff =      71.13, mean_diff =       9.15
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip3/cam1
+max_diff =      70.67, mean_diff =       8.76
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip0/cam3
+max_diff =      39.62, mean_diff =       5.64
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip0/cam2
+max_diff =      34.41, mean_diff =       4.64
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip6/cam0
+max_diff =      64.88, mean_diff =       8.90
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip3/cam2
+max_diff =      36.04, mean_diff =       6.51
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip6/cam3
+max_diff =      67.93, mean_diff =       8.30
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip3/cam3
+max_diff =      35.35, mean_diff =       6.52
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip6/cam2
+max_diff =      61.10, mean_diff =       7.20
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip2/cam0
+max_diff =      53.37, mean_diff =       7.07
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip4/cam2
+max_diff =      17.13, mean_diff =       2.06
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip2/cam3
+max_diff =      60.82, mean_diff =       8.13
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip4/cam3
+max_diff =      27.17, mean_diff =       2.79
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip2/cam1
+max_diff =      83.12, mean_diff =       8.92
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip4/cam0
+max_diff =      18.56, mean_diff =       2.14
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip2/cam2
+max_diff =      55.54, mean_diff =       7.61
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip0/cam1
+max_diff =      82.25, mean_diff =       7.18
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip0/cam0
+max_diff =      32.10, mean_diff =       4.66
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip0/cam0
+max_diff =      48.51, mean_diff =       6.03
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip0/cam1
+max_diff =      63.24, mean_diff =       7.44
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip0/cam2
+max_diff =      62.74, mean_diff =       6.51
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip0/cam3
+max_diff =      60.20, mean_diff =       7.05
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip1/cam0
+max_diff =      27.04, mean_diff =       5.95
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip1/cam1
+max_diff =      46.43, mean_diff =       8.72
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip1/cam2
+max_diff =      31.68, mean_diff =       5.49
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip1/cam3
+max_diff =      34.09, mean_diff =       7.25
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip2/cam0
+max_diff =      39.89, mean_diff =       2.78
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip2/cam1
+max_diff =      53.02, mean_diff =       4.50
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip2/cam2
+max_diff =      45.83, mean_diff =       2.25
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip2/cam3
+max_diff =      49.16, mean_diff =       3.12
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip3/cam0
+max_diff =      43.40, mean_diff =       4.99
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip3/cam1
+max_diff =      94.69, mean_diff =       7.27
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip3/cam2
+max_diff =      46.88, mean_diff =       5.14
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip3/cam3
+max_diff =      58.01, mean_diff =       6.13
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip4/cam0
+max_diff =      39.47, mean_diff =       4.86
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip4/cam1
+max_diff =      62.21, mean_diff =       6.64
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip4/cam2
+max_diff =      44.38, mean_diff =       5.71
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip4/cam3
+max_diff =      48.02, mean_diff =       5.76
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip5/cam0
+max_diff =      26.98, mean_diff =       4.81
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip5/cam1
+max_diff =      66.76, mean_diff =       6.87
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip5/cam2
+max_diff =      33.03, mean_diff =       4.71
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip5/cam3
+max_diff =      45.00, mean_diff =       5.87
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip6/cam0
+max_diff =      49.42, mean_diff =       4.83
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip6/cam1
+max_diff =      88.46, mean_diff =       5.12
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip6/cam2
+max_diff =      40.07, mean_diff =       3.56
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip6/cam3
+max_diff =      62.75, mean_diff =       4.53
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip7/cam0
+max_diff =      32.05, mean_diff =       7.60
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip7/cam1
+max_diff =      70.40, mean_diff =      10.85
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip7/cam2
+max_diff =      33.76, mean_diff =       7.56
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip7/cam3
+max_diff =      44.59, mean_diff =       8.39
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip8/cam0
+max_diff =      30.87, mean_diff =       6.73
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip8/cam1
+max_diff =      62.71, mean_diff =       9.14
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip8/cam2
+max_diff =      49.42, mean_diff =       7.40
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip8/cam3
+max_diff =      45.89, mean_diff =       8.06
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip0/cam0
+max_diff =      36.81, mean_diff =       4.13
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip0/cam1
+max_diff =      71.84, mean_diff =       5.76
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip0/cam2
+max_diff =      43.20, mean_diff =       4.18
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip0/cam3
+max_diff =      52.24, mean_diff =       4.83
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip1/cam0
+max_diff =      30.47, mean_diff =       4.87
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip1/cam1
+max_diff =      59.44, mean_diff =       6.26
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip1/cam2
+max_diff =      40.80, mean_diff =       5.22
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip1/cam3
+max_diff =      45.46, mean_diff =       6.02
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip2/cam0
+max_diff =      37.90, mean_diff =       4.87
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip2/cam1
+max_diff =      75.53, mean_diff =       6.70
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip2/cam2
+max_diff =      60.35, mean_diff =       4.60
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip2/cam3
+max_diff =      65.41, mean_diff =       5.66
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip3/cam0
+max_diff =      30.31, mean_diff =       3.12
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip3/cam1
+max_diff =      40.44, mean_diff =       4.08
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip3/cam2
+max_diff =      38.05, mean_diff =       3.75
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip3/cam3
+max_diff =      36.22, mean_diff =       3.53
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip4/cam0
+max_diff =      26.86, mean_diff =       4.89
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip4/cam1
+max_diff =      43.99, mean_diff =       5.83
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip4/cam2
+max_diff =      29.52, mean_diff =       4.93
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip4/cam3
+max_diff =      32.36, mean_diff =       5.52
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip5/cam0
+max_diff =      21.79, mean_diff =       3.20
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip5/cam1
+max_diff =      25.67, mean_diff =       4.42
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip5/cam2
+max_diff =      18.58, mean_diff =       3.01
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip5/cam3
+max_diff =      22.54, mean_diff =       3.62
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip6/cam0
+max_diff =      30.16, mean_diff =       9.50
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip6/cam1
+max_diff =      44.74, mean_diff =      11.40
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip6/cam2
+max_diff =      28.22, mean_diff =      10.01
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip6/cam3
+max_diff =      33.67, mean_diff =      11.45
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip7/cam0
+max_diff =      46.83, mean_diff =       6.80
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip7/cam1
+max_diff =      58.09, mean_diff =       8.27
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip7/cam2
+max_diff =      55.50, mean_diff =       7.43
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip7/cam3
+max_diff =      58.09, mean_diff =       8.15
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip8/cam0
+max_diff =      36.35, mean_diff =       5.32
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip8/cam1
+max_diff =      64.49, mean_diff =       7.47
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip8/cam2
+max_diff =      54.45, mean_diff =       5.86
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip8/cam3
+max_diff =      50.02, mean_diff =       6.42
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip3/cam1
+max_diff =      57.47, mean_diff =       3.80
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip1/cam2
+max_diff =     202.05, mean_diff =       7.66
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip0/cam3
+max_diff =      52.28, mean_diff =       4.95
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip6/cam0
+max_diff =      58.60, mean_diff =       6.09
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip2/cam2
+max_diff =     205.86, mean_diff =      10.24
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip4/cam2
+max_diff =     295.86, mean_diff =       7.55
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip3/cam2
+max_diff =     309.96, mean_diff =       9.84
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip4/cam0
+max_diff =      56.87, mean_diff =       6.41
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip6/cam2
+max_diff =     495.06, mean_diff =      19.85
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip4/cam1
+max_diff =      67.80, mean_diff =       7.72
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip3/cam3
+max_diff =      33.77, mean_diff =       3.23
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip6/cam3
+max_diff =     671.34, mean_diff =      12.03
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip1/cam1
+max_diff =      58.52, mean_diff =       7.00
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip2/cam0
+max_diff =      35.00, mean_diff =       4.58
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip7/cam1
+max_diff =      93.73, mean_diff =       7.36
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip2/cam1
+max_diff =      49.63, mean_diff =       4.59
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip4/cam3
+max_diff =     677.43, mean_diff =       7.70
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip0/cam2
+max_diff =     204.59, mean_diff =      22.92
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip2/cam3
+max_diff =      37.44, mean_diff =       5.23
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip7/cam3
+max_diff =     581.11, mean_diff =       9.35
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip5/cam3
+max_diff =      53.78, mean_diff =       5.71
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip5/cam0
+max_diff =      49.18, mean_diff =       5.32
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip5/cam1
+max_diff =      48.46, mean_diff =       6.42
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip3/cam0
+max_diff =      36.09, mean_diff =       2.80
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip5/cam2
+max_diff =     298.78, mean_diff =       7.56
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip1/cam0
+max_diff =      43.30, mean_diff =       5.07
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip7/cam0
+max_diff =      87.77, mean_diff =       6.77
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip1/cam3
+max_diff =      53.85, mean_diff =       5.73
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip0/cam1
+max_diff =      48.19, mean_diff =       6.06
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip6/cam1
+max_diff =      60.49, mean_diff =       5.89
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip7/cam2
+max_diff =     556.00, mean_diff =      14.69
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip0/cam0
+max_diff =      53.43, mean_diff =       4.40
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip0/cam5
+max_diff =      28.59, mean_diff =       1.10
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip2/cam6
+max_diff =      40.04, mean_diff =       1.88
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip0/cam6
+max_diff =      46.95, mean_diff =       1.81
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip0/cam4
+max_diff =      32.69, mean_diff =       0.88
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip2/cam7
+max_diff =      28.55, mean_diff =       1.09
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip0/cam7
+max_diff =      33.77, mean_diff =       0.81
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip1/cam4
+max_diff =      25.00, mean_diff =       0.96
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip1/cam5
+max_diff =      16.18, mean_diff =       0.93
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip1/cam6
+max_diff =      40.88, mean_diff =       0.72
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip1/cam7
+max_diff =      11.71, mean_diff =       1.50
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip2/cam5
+max_diff =      28.49, mean_diff =       2.21
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-2/clip2/cam4
+max_diff =      34.05, mean_diff =       2.07
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip1/cam5
+max_diff =      95.09, mean_diff =       5.82
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip7/cam6
+max_diff =      56.46, mean_diff =       5.85
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip8/cam7
+max_diff =      59.14, mean_diff =       5.64
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip1/cam6
+max_diff =      96.93, mean_diff =       5.21
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip7/cam7
+max_diff =      58.68, mean_diff =       4.02
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip1/cam4
+max_diff =      69.20, mean_diff =       4.66
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip8/cam5
+max_diff =      68.87, mean_diff =       6.84
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip1/cam7
+max_diff =      93.43, mean_diff =       5.66
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip8/cam6
+max_diff =      78.08, mean_diff =       7.25
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip3/cam6
+max_diff =      56.08, mean_diff =       2.84
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip3/cam4
+max_diff =      31.40, mean_diff =       2.43
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip3/cam7
+max_diff =      34.10, mean_diff =       2.47
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip6/cam4
+max_diff =      23.46, mean_diff =       3.93
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip3/cam5
+max_diff =      42.86, mean_diff =       2.56
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip8/cam4
+max_diff =      55.95, mean_diff =       5.60
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip2/cam4
+max_diff =      33.58, mean_diff =       4.44
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip6/cam5
+max_diff =      29.18, mean_diff =       4.70
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip4/cam4
+max_diff =      36.15, mean_diff =       3.33
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip4/cam6
+max_diff =      40.69, mean_diff =       3.87
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip2/cam6
+max_diff =      41.85, mean_diff =       4.95
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip6/cam7
+max_diff =      37.07, mean_diff =       3.71
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip4/cam5
+max_diff =      42.92, mean_diff =       4.13
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip7/cam5
+max_diff =      84.74, mean_diff =       6.03
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip4/cam7
+max_diff =      47.07, mean_diff =       3.66
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip5/cam4
+max_diff =      39.25, mean_diff =       4.45
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip2/cam7
+max_diff =      27.15, mean_diff =       3.77
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip5/cam5
+max_diff =      48.37, mean_diff =       5.29
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip2/cam5
+max_diff =      33.47, mean_diff =       4.90
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip0/cam5
+max_diff =      43.16, mean_diff =       4.24
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip7/cam4
+max_diff =      71.62, mean_diff =       4.65
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip6/cam6
+max_diff =      18.59, mean_diff =       4.71
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip5/cam7
+max_diff =      25.56, mean_diff =       4.09
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip0/cam6
+max_diff =      37.41, mean_diff =       4.80
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip5/cam6
+max_diff =      55.85, mean_diff =       5.51
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip0/cam7
+max_diff =      31.68, mean_diff =       3.80
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-3/clip0/cam4
+max_diff =      37.20, mean_diff =       3.63
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip1/cam5
+max_diff =      67.32, mean_diff =       6.28
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip7/cam5
+max_diff =      39.76, mean_diff =       5.14
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip0/cam4
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip6/cam4
+max_diff =      56.42, mean_diff =       4.26
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip7/cam6
+max_diff =      43.26, mean_diff =       5.17
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip1/cam4
+max_diff =      55.08, mean_diff =       5.77
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip3/cam5
+max_diff =      59.46, mean_diff =       6.12
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip1/cam7
+max_diff =      66.30, mean_diff =       6.10
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip6/cam5
+max_diff =      66.00, mean_diff =       4.59
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip7/cam7
+max_diff =      38.94, mean_diff =       4.34
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip3/cam6
+max_diff =      32.17, mean_diff =       5.50
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip3/cam4
+max_diff =      44.04, mean_diff =       4.29
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip3/cam7
+max_diff =      47.12, mean_diff =       3.85
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip6/cam7
+max_diff =      66.15, mean_diff =       4.83
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip4/cam5
+max_diff =      46.06, mean_diff =       4.03
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip6/cam6
+max_diff =      64.79, mean_diff =       4.85
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip1/cam6
+max_diff =      66.37, mean_diff =       6.32
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip4/cam4
+max_diff =      45.21, mean_diff =       3.18
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip4/cam6
+max_diff =      41.64, mean_diff =       3.62
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip4/cam7
+max_diff =      39.16, mean_diff =       3.82
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip2/cam6
+max_diff =      35.42, mean_diff =       5.65
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip5/cam4
+max_diff =      58.39, mean_diff =       5.99
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip2/cam5
+max_diff =      39.69, mean_diff =       6.14
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip2/cam7
+max_diff =      31.44, mean_diff =       4.75
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip7/cam4
+max_diff =      44.04, mean_diff =       3.90
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip0/cam5
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip2/cam4
+max_diff =      38.18, mean_diff =       4.80
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip5/cam5
+max_diff =      72.86, mean_diff =       6.33
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip0/cam6
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip5/cam7
+max_diff =      74.03, mean_diff =       6.24
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip0/cam7
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-4/clip5/cam6
+max_diff =      71.42, mean_diff =       5.78
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip4/cam5
+max_diff =      19.11, mean_diff =       2.92
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip3/cam6
+max_diff =      42.12, mean_diff =       5.65
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip5/cam6
+max_diff =      56.00, mean_diff =      10.54
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip4/cam6
+max_diff =      19.60, mean_diff =       2.39
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip5/cam4
+max_diff =      43.98, mean_diff =       7.51
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip5/cam5
+max_diff =      49.49, mean_diff =       9.36
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip0/cam5
+max_diff =      29.39, mean_diff =       6.01
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip4/cam7
+max_diff =      17.00, mean_diff =       1.76
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip0/cam6
+max_diff =      27.53, mean_diff =       4.72
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip0/cam7
+max_diff =      34.22, mean_diff =       5.20
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip1/cam5
+max_diff =      51.81, mean_diff =       4.51
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip5/cam7
+max_diff =      29.18, mean_diff =       7.60
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip1/cam6
+max_diff =      50.80, mean_diff =       4.88
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip0/cam4
+max_diff =      30.43, mean_diff =       3.95
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip6/cam4
+max_diff =      40.29, mean_diff =       7.81
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip3/cam5
+max_diff =      36.30, mean_diff =       6.78
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip1/cam4
+max_diff =      43.51, mean_diff =       4.06
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip1/cam7
+max_diff =      51.82, mean_diff =       3.79
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip3/cam4
+max_diff =      27.67, mean_diff =       5.60
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip6/cam7
+max_diff =      59.94, mean_diff =       9.08
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip3/cam7
+max_diff =      41.13, mean_diff =       6.12
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip6/cam5
+max_diff =      46.09, mean_diff =       9.54
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip6/cam6
+max_diff =      50.03, mean_diff =      10.03
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip4/cam4
+max_diff =      17.17, mean_diff =       2.20
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip2/cam4
+max_diff =      48.75, mean_diff =       7.14
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip2/cam6
+max_diff =      67.82, mean_diff =       7.84
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip2/cam5
+max_diff =      64.32, mean_diff =       8.67
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-5/clip2/cam7
+max_diff =      50.95, mean_diff =       6.52
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip0/cam4
+max_diff =      44.43, mean_diff =       5.59
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip0/cam5
+max_diff =      56.05, mean_diff =       6.29
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip0/cam6
+max_diff =      54.99, mean_diff =       6.53
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip0/cam7
+max_diff =      57.02, mean_diff =       5.86
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip1/cam4
+max_diff =      20.63, mean_diff =       5.17
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip1/cam5
+max_diff =      25.64, mean_diff =       6.41
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip1/cam6
+max_diff =      25.22, mean_diff =       6.62
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip1/cam7
+max_diff =      29.44, mean_diff =       4.58
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip2/cam4
+max_diff =      39.49, mean_diff =       2.51
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip2/cam5
+max_diff =      45.61, mean_diff =       3.10
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip2/cam6
+max_diff =      52.46, mean_diff =       3.00
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip2/cam7
+max_diff =      41.22, mean_diff =       2.16
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip3/cam4
+max_diff =      44.58, mean_diff =       4.80
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip3/cam5
+max_diff =      42.32, mean_diff =       5.18
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip3/cam6
+max_diff =      51.50, mean_diff =       5.28
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip3/cam7
+max_diff =      43.40, mean_diff =       5.08
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip4/cam4
+max_diff =      39.10, mean_diff =       5.16
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip4/cam5
+max_diff =      48.16, mean_diff =       6.62
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip4/cam6
+max_diff =      48.50, mean_diff =       6.77
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip4/cam7
+max_diff =      53.39, mean_diff =       5.59
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip5/cam4
+max_diff =      25.50, mean_diff =       4.57
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip5/cam5
+max_diff =      25.14, mean_diff =       5.24
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip5/cam6
+max_diff =      41.26, mean_diff =       5.45
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip5/cam7
+max_diff =      30.76, mean_diff =       3.95
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip6/cam4
+max_diff =      44.86, mean_diff =       4.50
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip6/cam5
+max_diff =      40.48, mean_diff =       4.74
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip6/cam6
+max_diff =      25.24, mean_diff =       3.59
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip6/cam7
+max_diff =      44.61, mean_diff =       3.41
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip7/cam4
+max_diff =      31.65, mean_diff =       6.96
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip7/cam5
+max_diff =      37.04, mean_diff =       8.85
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip7/cam6
+max_diff =      34.40, mean_diff =       7.56
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip7/cam7
+max_diff =      38.11, mean_diff =       7.68
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip8/cam4
+max_diff =      33.59, mean_diff =       6.38
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip8/cam5
+max_diff =      46.10, mean_diff =       8.02
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip8/cam6
+max_diff =      46.69, mean_diff =       7.08
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-6/clip8/cam7
+max_diff =      34.62, mean_diff =       6.09
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip0/cam4
+max_diff =      43.68, mean_diff =       3.87
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip0/cam5
+max_diff =      58.50, mean_diff =       4.00
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip0/cam6
+max_diff =      67.00, mean_diff =       3.61
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip0/cam7
+max_diff =      42.32, mean_diff =       3.63
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip1/cam4
+max_diff =      31.77, mean_diff =       4.54
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip1/cam5
+max_diff =      48.00, mean_diff =       5.43
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip1/cam6
+max_diff =      38.37, mean_diff =       4.53
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip1/cam7
+max_diff =      37.38, mean_diff =       4.59
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip2/cam4
+max_diff =      37.46, mean_diff =       4.55
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip2/cam5
+max_diff =      57.82, mean_diff =       6.32
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip2/cam6
+max_diff =      58.35, mean_diff =       6.19
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip2/cam7
+max_diff =      51.05, mean_diff =       3.92
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip3/cam4
+max_diff =      27.32, mean_diff =       2.85
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip3/cam5
+max_diff =      32.71, mean_diff =       4.17
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip3/cam6
+max_diff =      32.00, mean_diff =       4.08
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip3/cam7
+max_diff =      34.89, mean_diff =       3.37
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip4/cam4
+max_diff =      22.47, mean_diff =       5.71
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip4/cam5
+max_diff =      34.62, mean_diff =       5.74
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip4/cam6
+max_diff =      46.84, mean_diff =       5.08
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip4/cam7
+max_diff =      35.87, mean_diff =       5.80
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip5/cam4
+max_diff =      18.85, mean_diff =       3.16
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip5/cam5
+max_diff =      20.75, mean_diff =       4.19
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip5/cam6
+max_diff =      23.89, mean_diff =       4.90
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip5/cam7
+max_diff =      13.82, mean_diff =       3.26
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip6/cam4
+max_diff =      26.45, mean_diff =       8.93
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip6/cam5
+max_diff =      29.75, mean_diff =      10.19
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip6/cam6
+max_diff =      27.18, mean_diff =      10.95
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip6/cam7
+max_diff =      26.42, mean_diff =       8.76
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip7/cam4
+max_diff =      44.52, mean_diff =       6.71
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip7/cam5
+max_diff =      52.34, mean_diff =       8.20
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip7/cam6
+max_diff =      51.56, mean_diff =       7.38
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip7/cam7
+max_diff =      50.27, mean_diff =       7.52
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip8/cam4
+max_diff =      30.76, mean_diff =       5.69
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip8/cam5
+max_diff =      44.88, mean_diff =       6.76
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip8/cam6
+max_diff =      42.22, mean_diff =       5.58
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-7/clip8/cam7
+max_diff =      40.48, mean_diff =       5.11
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip1/cam6
+max_diff =      45.61, mean_diff =       5.73
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip7/cam5
+max_diff =      60.31, mean_diff =       4.52
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip0/cam4
+max_diff =      45.07, mean_diff =       4.03
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip7/cam6
+max_diff =      58.44, mean_diff =       5.27
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip1/cam5
+max_diff =      48.33, mean_diff =       5.45
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip1/cam4
+max_diff =      39.45, mean_diff =       4.78
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip3/cam5
+max_diff =      37.53, mean_diff =       2.95
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip1/cam7
+max_diff =      45.35, mean_diff =       4.60
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip6/cam4
+max_diff =      60.36, mean_diff =       5.53
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip7/cam7
+max_diff =      61.53, mean_diff =       5.12
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip3/cam6
+max_diff =      38.95, mean_diff =       2.57
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip2/cam6
+max_diff =      36.03, mean_diff =       4.90
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip6/cam5
+max_diff =      59.96, mean_diff =       6.20
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip3/cam4
+max_diff =      32.55, mean_diff =       2.56
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip3/cam7
+max_diff =      24.57, mean_diff =       2.28
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip4/cam5
+max_diff =      54.31, mean_diff =       6.43
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip4/cam4
+max_diff =      63.36, mean_diff =       5.56
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip6/cam6
+max_diff =      53.67, mean_diff =       4.96
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip4/cam6
+max_diff =      73.81, mean_diff =       6.12
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip6/cam7
+max_diff =      57.58, mean_diff =       5.61
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip2/cam5
+max_diff =      35.00, mean_diff =       4.85
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip4/cam7
+max_diff =      46.05, mean_diff =       5.45
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip2/cam4
+max_diff =      31.73, mean_diff =       4.30
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip5/cam6
+max_diff =      40.03, mean_diff =       5.75
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip7/cam4
+max_diff =      56.01, mean_diff =       4.60
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip5/cam5
+max_diff =      54.71, mean_diff =       5.17
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip0/cam5
+max_diff =      45.24, mean_diff =       4.65
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip5/cam4
+max_diff =      44.85, mean_diff =       4.62
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip0/cam6
+max_diff =      50.45, mean_diff =       7.31
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip2/cam7
+max_diff =      33.26, mean_diff =       4.13
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip0/cam7
+max_diff =      42.42, mean_diff =       5.89
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired/cerebro-paired-8/clip5/cam7
+max_diff =      36.98, mean_diff =       5.15
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip0/cam0
+max_diff =      28.80, mean_diff =       1.11
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip0/cam1
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip0/cam2
+max_diff =      14.87, mean_diff =       0.98
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip0/cam3
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip1/cam0
+max_diff =      60.65, mean_diff =       4.89
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip1/cam1
+max_diff =      40.23, mean_diff =       4.93
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip1/cam2
+max_diff =      36.02, mean_diff =       5.41
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip1/cam3
+max_diff =      48.00, mean_diff =       4.64
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip2/cam0
+max_diff =      18.72, mean_diff =       2.12
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip2/cam1
+max_diff =      38.78, mean_diff =       4.22
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip2/cam2
+max_diff =      19.98, mean_diff =       1.68
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip2/cam3
+max_diff =      29.86, mean_diff =       2.50
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip3/cam0
+max_diff =      68.10, mean_diff =       8.17
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip3/cam1
+max_diff =      88.85, mean_diff =      10.68
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip3/cam2
+max_diff =      75.08, mean_diff =       9.08
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip3/cam3
+max_diff =      80.30, mean_diff =      10.16
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip4/cam0
+max_diff =      12.83, mean_diff =       1.48
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip4/cam1
+max_diff =       9.48, mean_diff =       1.47
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip4/cam2
+max_diff =       7.55, mean_diff =       1.01
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip4/cam3
+max_diff =       8.80, mean_diff =       1.27
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip0/cam0
+max_diff =      63.11, mean_diff =       9.61
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip0/cam1
+max_diff =      88.71, mean_diff =      12.04
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip0/cam2
+max_diff =      74.79, mean_diff =      10.09
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip0/cam3
+max_diff =      70.43, mean_diff =       9.68
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip1/cam0
+max_diff =      59.26, mean_diff =       7.00
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip1/cam1
+max_diff =      62.03, mean_diff =       8.15
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip1/cam2
+max_diff =      59.41, mean_diff =       5.17
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip1/cam3
+max_diff =      62.36, mean_diff =       6.81
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip2/cam0
+max_diff =      78.24, mean_diff =       9.88
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip2/cam1
+max_diff =      89.02, mean_diff =      10.80
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip2/cam2
+max_diff =      90.43, mean_diff =      10.72
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip2/cam3
+max_diff =      88.18, mean_diff =      10.25
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip3/cam0
+max_diff =      36.44, mean_diff =       1.69
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip3/cam1
+max_diff =      39.92, mean_diff =       1.82
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip3/cam2
+max_diff =      33.44, mean_diff =       1.74
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip3/cam3
+max_diff =      51.52, mean_diff =       1.82
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip4/cam0
+max_diff =      50.98, mean_diff =       4.48
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip4/cam1
+max_diff =      16.13, mean_diff =       4.37
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip4/cam2
+max_diff =      46.60, mean_diff =       4.35
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip4/cam3
+max_diff =      58.39, mean_diff =       5.32
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip0/cam0
+max_diff =      43.97, mean_diff =       3.99
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip0/cam1
+max_diff =      53.26, mean_diff =       4.70
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip0/cam2
+max_diff =      45.65, mean_diff =       4.23
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip0/cam3
+max_diff =      46.34, mean_diff =       4.25
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip1/cam0
+max_diff =      28.51, mean_diff =       2.86
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip1/cam1
+max_diff =      70.47, mean_diff =       3.07
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip1/cam2
+max_diff =      35.26, mean_diff =       2.95
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip1/cam3
+max_diff =      23.54, mean_diff =       2.58
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip2/cam0
+max_diff =     107.16, mean_diff =      15.29
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip2/cam1
+max_diff =     517.99, mean_diff =      21.14
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip2/cam2
+max_diff =     402.77, mean_diff =      19.23
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip2/cam3
+max_diff =     173.32, mean_diff =      13.68
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip3/cam0
+max_diff =      86.19, mean_diff =      15.83
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip3/cam1
+max_diff =     107.83, mean_diff =      16.66
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip3/cam2
+max_diff =     102.37, mean_diff =      17.81
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip3/cam3
+max_diff =     103.76, mean_diff =      17.24
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip0/cam0
+max_diff =      45.82, mean_diff =       5.19
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip0/cam1
+max_diff =      55.38, mean_diff =       7.15
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip0/cam2
+max_diff =      50.65, mean_diff =       5.11
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip0/cam3
+max_diff =      52.41, mean_diff =       5.47
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip1/cam0
+max_diff =      57.71, mean_diff =       9.26
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip1/cam1
+max_diff =      80.83, mean_diff =      11.14
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip1/cam2
+max_diff =      78.93, mean_diff =      10.26
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip1/cam3
+max_diff =      72.17, mean_diff =      10.08
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip2/cam0
+max_diff =      37.41, mean_diff =       1.79
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip2/cam1
+max_diff =      31.29, mean_diff =       1.76
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip2/cam2
+max_diff =      25.64, mean_diff =       1.80
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip2/cam3
+max_diff =      51.34, mean_diff =       2.55
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip3/cam0
+max_diff =      88.48, mean_diff =      14.12
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip3/cam1
+max_diff =     112.41, mean_diff =      16.29
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip3/cam2
+max_diff =     103.48, mean_diff =      15.59
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip3/cam3
+max_diff =     105.19, mean_diff =      14.73
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip4/cam0
+max_diff =      83.62, mean_diff =      10.57
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip4/cam1
+max_diff =     100.69, mean_diff =      12.62
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip4/cam2
+max_diff =      95.12, mean_diff =      11.80
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip4/cam3
+max_diff =      96.75, mean_diff =      11.40
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip0/cam0
+max_diff =      74.09, mean_diff =       8.44
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip0/cam1
+max_diff =      92.36, mean_diff =      11.12
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip0/cam2
+max_diff =     706.75, mean_diff =      10.00
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip0/cam3
+max_diff =      84.47, mean_diff =       8.79
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip1/cam0
+max_diff =     126.91, mean_diff =      12.93
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip1/cam1
+max_diff =     120.63, mean_diff =      13.76
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip1/cam2
+max_diff =     107.48, mean_diff =      13.67
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip1/cam3
+max_diff =     109.58, mean_diff =      13.19
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip2/cam0
+max_diff =      40.26, mean_diff =       1.59
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip2/cam1
+max_diff =      32.61, mean_diff =       2.90
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip2/cam2
+max_diff =      19.39, mean_diff =       1.38
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip2/cam3
+max_diff =      47.48, mean_diff =       1.53
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip3/cam0
+max_diff =      86.10, mean_diff =       8.27
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip3/cam1
+max_diff =      94.51, mean_diff =       8.24
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip3/cam2
+max_diff =      90.31, mean_diff =       7.79
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip3/cam3
+max_diff =      88.79, mean_diff =       7.45
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip0/cam0
+max_diff =      91.02, mean_diff =      13.09
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip0/cam1
+max_diff =     110.34, mean_diff =      19.11
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip0/cam2
+max_diff =     104.59, mean_diff =      12.78
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip0/cam3
+max_diff =     102.90, mean_diff =      15.72
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip1/cam0
+max_diff =     100.13, mean_diff =      16.32
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip1/cam1
+max_diff =     113.33, mean_diff =      16.34
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip1/cam2
+max_diff =      97.97, mean_diff =      14.29
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip1/cam3
+max_diff =      96.76, mean_diff =      11.92
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip2/cam0
+max_diff =      59.57, mean_diff =      15.66
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip2/cam1
+max_diff =      43.08, mean_diff =      13.18
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip2/cam2
+max_diff =      51.12, mean_diff =      13.50
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip2/cam3
+max_diff =      47.31, mean_diff =      13.27
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip0/cam0
+max_diff =      68.05, mean_diff =       7.25
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip0/cam1
+max_diff =      99.76, mean_diff =       8.66
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip0/cam2
+max_diff =      89.64, mean_diff =       6.60
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip0/cam3
+max_diff =      94.47, mean_diff =       8.30
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip1/cam0
+max_diff =       9.93, mean_diff =       1.47
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip1/cam1
+max_diff =       3.99, mean_diff =       0.94
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip1/cam2
+max_diff =      10.80, mean_diff =       1.55
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip1/cam3
+max_diff =       8.83, mean_diff =       1.66
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip2/cam0
+max_diff =      84.93, mean_diff =      11.30
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip2/cam1
+max_diff =      90.95, mean_diff =      15.29
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip2/cam2
+max_diff =      88.46, mean_diff =      12.03
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip2/cam3
+max_diff =      93.08, mean_diff =      12.06
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip3/cam0
+max_diff =      84.99, mean_diff =      14.37
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip3/cam1
+max_diff =      96.40, mean_diff =      19.28
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip3/cam2
+max_diff =      92.51, mean_diff =      15.46
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip3/cam3
+max_diff =      92.85, mean_diff =      15.63
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip0/cam0
+max_diff =     108.73, mean_diff =      19.15
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip0/cam1
+max_diff =     120.24, mean_diff =      20.94
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip0/cam2
+max_diff =     112.08, mean_diff =      14.12
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip0/cam3
+max_diff =     121.42, mean_diff =      13.81
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip1/cam0
+max_diff =      10.41, mean_diff =       5.16
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip1/cam1
+max_diff =      21.04, mean_diff =       2.99
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip1/cam2
+max_diff =      28.18, mean_diff =       2.68
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip1/cam3
+max_diff =      20.65, mean_diff =       3.26
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip2/cam0
+max_diff =      90.20, mean_diff =      13.02
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip2/cam1
+max_diff =     111.23, mean_diff =      13.66
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip2/cam2
+max_diff =     110.98, mean_diff =      12.59
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip2/cam3
+max_diff =     109.92, mean_diff =      12.39
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip3/cam0
+max_diff =      97.85, mean_diff =      15.44
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip3/cam1
+max_diff =     118.60, mean_diff =      18.68
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip3/cam2
+max_diff =     115.13, mean_diff =      14.02
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip3/cam3
+max_diff =     113.28, mean_diff =      14.41
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip4/cam0
+max_diff =     115.07, mean_diff =      17.33
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip4/cam1
+max_diff =     115.58, mean_diff =      18.61
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip4/cam2
+max_diff =     118.97, mean_diff =      17.33
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip4/cam3
+max_diff =     125.98, mean_diff =      17.31
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip0/cam4
+max_diff =      23.33, mean_diff =       1.56
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip0/cam5
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip0/cam6
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip0/cam7
+max_diff =       2.59, mean_diff =       0.76
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip1/cam4
+max_diff =      48.55, mean_diff =       4.30
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip1/cam5
+max_diff =      40.88, mean_diff =       6.34
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip1/cam6
+max_diff =      31.59, mean_diff =       5.15
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip1/cam7
+max_diff =      30.08, mean_diff =       5.53
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip2/cam4
+max_diff =      12.12, mean_diff =       3.35
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip2/cam5
+max_diff =      18.97, mean_diff =       2.61
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip2/cam6
+max_diff =      28.46, mean_diff =       2.86
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip2/cam7
+max_diff =       9.83, mean_diff =       4.96
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip3/cam4
+max_diff =      57.31, mean_diff =       7.18
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip3/cam5
+max_diff =      67.20, mean_diff =       8.66
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip3/cam6
+max_diff =      80.97, mean_diff =       9.21
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip3/cam7
+max_diff =      61.71, mean_diff =       9.65
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip4/cam4
+max_diff =      14.53, mean_diff =       1.33
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip4/cam5
+max_diff =      18.54, mean_diff =       1.50
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip4/cam6
+max_diff =      12.02, mean_diff =       1.41
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-1/clip4/cam7
+max_diff =      11.93, mean_diff =       1.53
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip0/cam4
+max_diff =      57.15, mean_diff =       9.14
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip0/cam5
+max_diff =      50.54, mean_diff =       9.54
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip0/cam6
+max_diff =      49.82, mean_diff =       8.47
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip0/cam7
+max_diff =      69.15, mean_diff =       9.56
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip1/cam4
+max_diff =      56.23, mean_diff =       6.35
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip1/cam5
+max_diff =      56.09, mean_diff =       6.79
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip1/cam6
+max_diff =      52.08, mean_diff =       5.65
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip1/cam7
+max_diff =      52.87, mean_diff =       5.95
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip2/cam4
+max_diff =      72.02, mean_diff =       9.36
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip2/cam5
+max_diff =      83.03, mean_diff =       8.73
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip2/cam6
+max_diff =      80.10, mean_diff =       9.64
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip2/cam7
+max_diff =      81.18, mean_diff =       9.41
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip3/cam4
+max_diff =      29.01, mean_diff =       1.51
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip3/cam5
+max_diff =      25.48, mean_diff =       1.55
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip3/cam6
+max_diff =      32.34, mean_diff =       1.63
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip3/cam7
+max_diff =      24.59, mean_diff =       1.67
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip4/cam4
+max_diff =      50.63, mean_diff =       4.06
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip4/cam5
+max_diff =      38.68, mean_diff =       3.97
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip4/cam6
+max_diff =      18.35, mean_diff =       3.79
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-2/clip4/cam7
+max_diff =      41.38, mean_diff =       3.78
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip0/cam4
+max_diff =      38.82, mean_diff =       3.43
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip0/cam5
+max_diff =      49.48, mean_diff =       4.33
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip0/cam6
+max_diff =      48.17, mean_diff =       5.40
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip0/cam7
+max_diff =      39.51, mean_diff =       3.79
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip1/cam4
+max_diff =      25.35, mean_diff =       3.16
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip1/cam5
+max_diff =      17.58, mean_diff =       3.17
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip1/cam6
+max_diff =      18.42, mean_diff =       2.35
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip1/cam7
+max_diff =      22.47, mean_diff =       2.31
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip2/cam4
+max_diff =     438.67, mean_diff =      15.90
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip2/cam5
+max_diff =      58.52, mean_diff =       7.60
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip2/cam6
+max_diff =      36.97, mean_diff =       9.04
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip2/cam7
+max_diff =     603.74, mean_diff =      16.36
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip3/cam4
+max_diff =      84.19, mean_diff =      14.85
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip3/cam5
+max_diff =      99.41, mean_diff =      14.58
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip3/cam6
+max_diff =      94.96, mean_diff =      14.87
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-3/clip3/cam7
+max_diff =      95.09, mean_diff =      16.72
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip0/cam4
+max_diff =      51.30, mean_diff =       4.72
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip0/cam5
+max_diff =      47.81, mean_diff =       4.54
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip0/cam6
+max_diff =      44.88, mean_diff =       4.32
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip0/cam7
+max_diff =      41.21, mean_diff =       4.46
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip1/cam4
+max_diff =      56.30, mean_diff =       8.85
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip1/cam5
+max_diff =      56.76, mean_diff =       8.23
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip1/cam6
+max_diff =      64.31, mean_diff =       8.79
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip1/cam7
+max_diff =      74.47, mean_diff =       9.02
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip2/cam4
+max_diff =      24.83, mean_diff =       1.57
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip2/cam5
+max_diff =      15.40, mean_diff =       1.76
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip2/cam6
+max_diff =       9.35, mean_diff =       1.83
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip2/cam7
+max_diff =      30.05, mean_diff =       1.70
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip3/cam4
+max_diff =      58.47, mean_diff =      15.36
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip3/cam5
+max_diff =      57.02, mean_diff =      15.71
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip3/cam6
+max_diff =      57.67, mean_diff =      13.81
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip3/cam7
+max_diff =      83.93, mean_diff =      16.67
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip4/cam4
+max_diff =      75.00, mean_diff =      10.13
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip4/cam5
+max_diff =      66.20, mean_diff =       9.06
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip4/cam6
+max_diff =      80.79, mean_diff =       9.59
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-4/clip4/cam7
+max_diff =      87.79, mean_diff =      10.62
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip0/cam4
+max_diff =      69.05, mean_diff =       7.88
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip0/cam5
+max_diff =      76.68, mean_diff =       5.83
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip0/cam6
+max_diff =      79.41, mean_diff =       8.66
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip0/cam7
+max_diff =      73.10, mean_diff =       8.07
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip1/cam4
+max_diff =     108.02, mean_diff =      13.19
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip1/cam5
+max_diff =      74.46, mean_diff =       9.87
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip1/cam6
+max_diff =     103.63, mean_diff =      11.95
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip1/cam7
+max_diff =      95.19, mean_diff =      12.73
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip2/cam4
+max_diff =      14.50, mean_diff =       1.39
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip2/cam5
+max_diff =      35.93, mean_diff =       2.23
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip2/cam6
+max_diff =      26.60, mean_diff =       1.75
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip2/cam7
+max_diff =      19.87, mean_diff =       1.27
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip3/cam4
+max_diff =      78.43, mean_diff =       6.07
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip3/cam5
+max_diff =      81.86, mean_diff =       5.30
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip3/cam6
+max_diff =      79.48, mean_diff =       5.30
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-5/clip3/cam7
+max_diff =      78.34, mean_diff =       5.87
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip0/cam4
+max_diff =      20.89, mean_diff =       6.98
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip0/cam5
+max_diff =       3.54, mean_diff =       3.54
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip0/cam6
+max_diff =      11.85, mean_diff =       9.03
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip0/cam7
+max_diff =      26.36, mean_diff =       6.14
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip1/cam4
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip1/cam5
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip1/cam6
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip1/cam7
+max_diff =      16.87, mean_diff =       8.34
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip2/cam4
+max_diff =       9.31, mean_diff =       6.64
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip2/cam5
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip2/cam6
+max_diff =       7.31, mean_diff =       7.31
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-6/clip2/cam7
+max_diff =      23.85, mean_diff =       7.44
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip0/cam4
+max_diff =       7.11, mean_diff =       3.82
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip0/cam5
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip0/cam6
+max_diff =       7.84, mean_diff =       5.92
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip0/cam7
+max_diff =      18.87, mean_diff =       3.91
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip1/cam4
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip1/cam5
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip1/cam6
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip1/cam7
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip2/cam4
+max_diff =      13.23, mean_diff =       5.64
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip2/cam5
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip2/cam6
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip2/cam7
+max_diff =      32.00, mean_diff =       7.41
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip3/cam4
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip3/cam5
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip3/cam6
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-7/clip3/cam7
+max_diff =      12.96, mean_diff =      10.90
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip0/cam4
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip0/cam5
+max_diff =      25.81, mean_diff =      21.85
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip0/cam6
+max_diff =      11.10, mean_diff =      11.10
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip0/cam7
+max_diff =      22.23, mean_diff =       5.45
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip1/cam4
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip1/cam5
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip1/cam6
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip1/cam7
+max_diff =       1.12, mean_diff =       1.12
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip2/cam4
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip2/cam5
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip2/cam6
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip2/cam7
+max_diff =      17.44, mean_diff =       5.59
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip3/cam4
+max_diff =      23.71, mean_diff =      12.29
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip3/cam5
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip3/cam6
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip3/cam7
+max_diff =      45.90, mean_diff =      10.35
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip4/cam4
+max_diff =       9.30, mean_diff =       3.69
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip4/cam5
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip4/cam6
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-rope-8/clip4/cam7
+max_diff =       0.71, mean_diff =       0.71
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-1/clip0/cam0
+max_diff =     682.88, mean_diff =      87.15
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-1/clip0/cam1
+max_diff =     708.77, mean_diff =     132.52
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-1/clip0/cam2
+max_diff =     710.70, mean_diff =      82.21
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-1/clip0/cam3
+max_diff =     732.07, mean_diff =      97.07
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-2/clip0/cam0
+max_diff =     353.59, mean_diff =      74.92
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-2/clip0/cam1
+max_diff =     333.52, mean_diff =     203.76
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-2/clip0/cam2
+max_diff =     515.19, mean_diff =      73.27
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-2/clip0/cam3
+max_diff =     408.49, mean_diff =      61.83
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-3/clip0/cam0
+max_diff =     552.85, mean_diff =     137.15
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-3/clip0/cam1
+max_diff =     595.04, mean_diff =     118.47
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-3/clip0/cam2
+max_diff =     653.49, mean_diff =     140.20
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-3/clip0/cam3
+max_diff =     599.55, mean_diff =     124.49
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-1/clip0/cam4
+max_diff =     478.24, mean_diff =      86.74
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-1/clip0/cam5
+max_diff =     401.06, mean_diff =      90.95
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-1/clip0/cam6
+max_diff =     313.81, mean_diff =      67.11
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-1/clip0/cam7
+max_diff =     660.91, mean_diff =      82.88
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-2/clip0/cam4
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-2/clip0/cam5
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-2/clip0/cam6
+missing 
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-2/clip0/cam7
+max_diff =     135.42, mean_diff =      31.25
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-3/clip0/cam4
+max_diff =     385.72, mean_diff =     189.75
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-3/clip0/cam5
+max_diff =     410.79, mean_diff =     162.43
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-3/clip0/cam6
+max_diff =     415.04, mean_diff =     124.95
+processing clip /nadata/mnle/data/DAN_BUTLER/cerebro/cerebro-paired-rope-free/cerebro-paired-free-3/clip0/cam7
+max_diff =     394.91, mean_diff =     144.04

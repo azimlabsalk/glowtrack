@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block title %}Yogi - SubClipSet {{ subclipset.name }}{% endblock %}
+
+{% block content %}
+<table>
+    {% for subclip in subclips %}
+        <tr>
+            <td><img src="{{ url_for('image', id=subclip.images[0].id) }}"
+              style="width:100px"/></td>
+            <td><a href="{{ url_for('subclip', id=subclip.id) }}">
+                   SubClip {{ subclip.id }} - {{ subclip.path }}</a></td>
+        </tr>
+    {% endfor %}
+</table>
+{% endblock %}

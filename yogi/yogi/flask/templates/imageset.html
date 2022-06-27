@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block title %}Yogi - ImageSet {{ imageset.name }}{% endblock %}
+
+{% block content %}
+
+<table>
+    {% for image in images[:limit] %}
+      <tr>
+        <td>{{ image.path }}</td>
+        <td><a href="{{ url_for('image', id=image.id) }}">
+          Image</a></td>
+        <td><a href="{{ url_for('labeled_image', id=image.id,
+                                label_source_ids=label_source_ids) }}">
+          LabeledImage</a></td>
+      </tr>
+    {% endfor %}
+</table>
+
+{% endblock %}

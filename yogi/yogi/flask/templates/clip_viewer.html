@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block title %}Yogi - Clip {{ clip.id }}{% endblock %}
+
+{% block content %}
+
+  {% if prev_frame_num %}
+    <a href="{{ url_for('clip_viewer', clip_id=clip.id, source_ids=label_source_ids, frame_num=prev_frame_num) }}">Prev</a>
+  {% endif %}
+
+  {% if next_frame_num %}
+    <a href="{{ url_for('clip_viewer', clip_id=clip.id, source_ids=label_source_ids, frame_num=next_frame_num) }}">Next</a>
+  {% endif %}
+
+  <br/>
+
+  {% if label_source_ids|length > 0 %}
+    <img style="height:90vh" src="{{ url_for('labeled_image', id=image.id, label_source_ids=label_source_ids) }}"/><br/>
+  {% else %}
+    <img style="height:90vh" src="{{ url_for('image', id=image.id) }}"/><br/>
+  {% endif %}
+
+{% endblock %}

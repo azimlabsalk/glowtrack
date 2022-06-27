@@ -1,63 +1,35 @@
-# GlowTrack 
+# GlowTrack
 
 A system for training motion capture models via fluorescence labeling.
-
-*NOTE*: The code in this repository is intended to serve as a reference for others who want to implement a similar system. It has not been extensively tested. We found it to be sufficient to serve as a proof-of-principle for research purposes. However, for applications with more stringent requirements, additional testing and validation would be necessary.
 
 ## Components
 
 The main components of the system are:
 
-- A [geodesic dome](https://github.com/azimlabsalk/glowtrack/blob/main/dome.md) for holding lights and cameras
-- An Arduino microcontroller (Arduino Due running [this code](https://github.com/azimlabsalk/glowtrack/blob/main/arduino/MultiStrobe/MultiStrobe.ino)) for triggering the cameras and lights
-- [Circuitry](https://github.com/azimlabsalk/glowtrack/blob/main/electronics/schematic.pdf) for controlling lights and cameras
-- [Software](https://github.com/azimlabsalk/glowtrack/tree/main/wink) for capturing video from cameras
+- A video capture rig (`capture/`) for capturing strobed fluorescence video.
+- A software package, Yogi (`yogi/`), for processing strobed flourescence video, creating motion capture models from it, and evaluating those models.
+- A GUI, Kinescope (`kinescope/`), for realtime viewing of 1) strobed fluorescence video, and 2) motion capture model output. These can be helpful for optimizing the video capture rig.
 
-## Dome & circuitry
+## Demo
 
-To reproduce our hardware setup, we recommend examining our description of the [geodesic dome](https://github.com/azimlabsalk/glowtrack/blob/main/dome.md) and the schematic of the [circuitry](https://github.com/azimlabsalk/glowtrack/blob/main/electronics/schematic.pdf).
+The main software demo lives in `yogi/`. It demonstrates a neural network trained on fluorescence-derived labels.
 
-## Arduino
+## Figures
 
-1. Install the Arduino IDE
-2. From the Arduino IDE, open `arduino/MultiStrobe/MultiStrobe.ino`
-3. Attach your Arduino to your computer via USB and upload the MultiStrobe code to it
-4. Unplug the Arduino from your computer, and connect your lights and cameras to it (see [our schematic](https://github.com/azimlabsalk/glowtrack/blob/main/electronics/schematic.pdf) for one example)
-5. Attach the Arduino to your computer again, and initiate image capture by running a video capture script (see our example code)
+This repository contains all code used to produce the figures in the GlowTrack paper. 
 
-## Video capture
+The images of mice and the human hand in Fig. 2, Fig. 3ef, Fig. 5, Fig. 6, Supp. Fig. 1, Supp. Fig 2., Supp. Fig. 5b, Supp. Fig. 6, and Supp. Fig. 7 were generated with the strobed-fluorescence video capture rig (`capture/`).
 
-For video capture, we wrote code that uses the Basler Pylon API. First, we wrote a python package called [wink](https://github.com/azimlabsalk/glowtrack/blob/main/wink/src/python/wink). This code was performant enough to capture from up to four USB3 cameras. In order to capture from all eight cameras, we also wrote a [C++ script](https://github.com/azimlabsalk/glowtrack/blob/main/wink/src/c++/Grab_MultipleCameras.cpp). Depending on your specific needs, one or the other may be more convenient, so we provide both. Note that the C++ code depends on the python package for sending serial commands to the Arduino, but this dependency could easily be removed. 
+The code and designs for the video capture rig shown in Fig. 3 are located in `capture/`.
 
-To install the python package, follow the instructions in the [wink README](https://github.com/azimlabsalk/glowtrack/blob/main/wink/README.md).
+The precision-recall curves and error quartile plots in Fig. 3gh, Fig. 4e, Fig. 6eik, Supp. Fig. 3, and Supp. Fig. 4b were generated with the scripts in `yogi/scripts`. These scripts rely on evaluation code in `yogi/yogi/evaluation.py`.
 
-To build the C++ script:
+The custom image augmentation procedure depicted in Supp. Fig. 1 is implemented in `yogi/yogi/image_aug.py`.
 
-1. Install the OpenCV and Pylon 5
-2. Change your working directory: `cd wink/src/c++`
-3. To build the script, run `mkdir build && make build/Grab_MultipleCameras`. 
+The parallel labeling approach with SIFT features depicted in Fig. 5, Fig. 6, Supp. Fig. 5, Supp. Fig. 6, and Supp. Fig. 7, is implemented in scripts in `yogi/scripts/speckle` and utility code in `yogi/yogi/matching.py`.
 
-To capture video clips:
+The template selection algorithm shown in Supp. Fig. 5 is implemented in `yogi/dependencies/VocabTree2` (modified version of the existing `VocabTree2` code by Noah Snavely). In particular, see `yogi/dependencies/VocabTree2/VocabCover.cpp`.
 
-1. Make sure your Arduino is loaded with the code, connected to your cameras, and connected to your capture computer via USB. 
-2. To capture video clips with full fluorescence strobing, run `./capture.sh [DATA_DIR] [EVERY_NTH] [BUFFER_SIZE] [BATCH_SIZE]`. See comments below for a description of the parameters. Pressing enter once will start triggering the cameras, but not recording. You can now choose to start recording a clip (by pressing enter) or quit (by pressing 'q' + enter). While recording a clip, you can stop recording any time by pressing enter.
-3. To deinterleave the visible and UV video frames, run `./deinterleave.sh [DATA_DIR]`.
+## Disclaimer
 
-Description of parameters:
-
-```
-EVERY_NTH - Along with BATCH_SIZE, helps determine how many image pairs (each containing one visible and one UV image) to drop between capture batches. A value of 1 indicates that a batch is initiated at every frame pair, while a value of 50 means that a batch is initiated on every 50th image pair. EVERY_NTH must be at least 1 and greater than or equal to BATCH_SIZE.
-
-BUFFER_SIZE - How many image pairs to store in a temporary buffer while not actively recording a clip. When you start recording a clip, the buffer is included at the beginning of the recording, effectively allowing you to record into the past. This is useful if you are capturing brief events like a mouse reaching for a food pellet.
-
-BATCH_SIZE - How many image pairs to capture in a batch. BATCH_SIZE must be at least 1 and less than or equal to EVERY_NTH.
-
-Example 1: ./capture.sh [DATA_DIR] 1 100 1
-
-  This means: 1. capture every image pair, and 2. buffer the most recent 100 image pairs (which are immediately saved when a clip is recorded).
-
-Example 2: ./capture.sh [DATA_DIR] 50 0 2
-
-  This means: 1. repeatedly capture 2 image pairs then drop 48 image pairs, and 2. do not to buffer any image pairs.
-
-```
+The code and designs in this repository are intended to serve as a reference for others who want to implement a similar system. They have not been extensively tested. We found them to be sufficient to serve as a proof-of-principle for research purposes. However, for applications with more stringent requirements, additional testing and validation would be necessary.

@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block title %}Yogi - LabelSet {{ labelset.name }}{% endblock %}
+
+{% block content %}
+
+<table>
+    {% for label in labelset.labels[:limit] %}
+      <tr>
+        <td>{{ label.image.path }}</td>
+        <td><a href="{{ url_for('labeled_image', id=label.image.id,
+                                label_source_ids=[label.source_id]) }}">
+          LabeledImage</a></td>
+      </tr>
+    {% endfor %}
+</table>
+
+{% endblock %}

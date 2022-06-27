@@ -1,0 +1,1 @@
+yogi plot pr-comparison-labelset output/fig4/pr-curves-cerebro-vs-handlabeled.eps cerebro-clipgroup-test-hand-labeled right-paw cerebro-clipgroup-test-hand-labeled basic-thresholder thresholder-5 --subsample-conf 1

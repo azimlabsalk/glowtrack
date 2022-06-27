@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block title %}Yogi - Clip {{ clip.id }}{% endblock %}
+
+{% block content %}
+    {% for image in images %}
+        <a href="{{ url_for('image', id=image.id) }}">
+               Frame {{ image.frame_num }}</a><br/>
+    {% endfor %}
+{% endblock %}
+

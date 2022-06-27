@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block title %}Yogi - SubClipSet {{ subclipset_name }}{% endblock %}
+
+{% block content %}
+
+<table>
+    <tr>
+      <th>Labeled image (GT, pred)</th>
+      <th>Confidence</th>
+      <th>Error</th>
+      <th>On-target</th>
+      <th>Occluded GT</th>
+    </tr>
+    {% for datum in data %}
+        <tr>
+            <td><img src="{{ datum['image_url'] }}" style="width:300px"/></td>
+            <td>{{ datum['confidence'] }}</td>
+            <td>{{ datum['error'] }}</td>
+            <td>{{ datum['on_target'] }}</td>
+            <td>{{ datum['occluded'] }}</td>
+        </tr>
+    {% endfor %}
+</table>
+
+{% endblock %}

@@ -1,0 +1,15 @@
+*.o
+*.a
+VocabBuildDB/VocabBuildDB
+VocabCover/VocabCover
+VocabLearn/VocabLearn
+VocabMatch/VocabMatch
+VocabMatch/VocabMatchScript
+VocabMatch/VocabMatchScript_desc
+VocabMatch/VocabMatch_desc
+bin
+data/
+lib/ann_1.1/lib
+lib/ann_1.1_char/lib
+src/VocabCombine
+src/VocabCompare

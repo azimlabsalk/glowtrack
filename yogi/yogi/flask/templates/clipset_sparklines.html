@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}Yogi - ClipSet {{ clipset.name }}{% endblock %}
+
+{% block content %}
+<table>
+    {% for clip in clips %}
+        <tr>
+            <td><img src="{{ url_for('sparkline', clip_id=clip.id, source_id=label_source.id, landmark_id=landmark_id) }}"
+              style="width:500px"/></td>
+            <td><a href="{{ url_for('clip_viewer', clip_id=clip.id, source_ids=[label_source.id], frame_num=0) }}">Viewer</a></td>
+            <td><a href="{{ url_for('clip', id=clip.id) }}">
+                   Clip {{ clip.id }} - {{ clip.path }}</a></td>
+        </tr>
+    {% endfor %}
+</table>
+{% endblock %}

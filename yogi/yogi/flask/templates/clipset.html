@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block title %}Yogi - ClipSet {{ clipset.name }}{% endblock %}
+
+{% block content %}
+<table>
+    {% for clip in clips %}
+        <tr>
+            <td><img src="{{ url_for('image', id=clip.images[0].id) }}"
+              style="width:100px"/></td>
+            <td><a href="{{ url_for('clip', id=clip.id) }}">
+                   Clip {{ clip.id }} - {{ clip.path }}</a></td>
+        </tr>
+    {% endfor %}
+</table>
+{% endblock %}

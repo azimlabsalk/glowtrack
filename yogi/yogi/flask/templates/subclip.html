@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block title %}Yogi - SubClip {{ subclip.clip.path }}{% endblock %}
+
+{% block content %}
+
+<table>
+    {% for image in images[:limit] %}
+      <tr>
+        <td>{{ image.frame_num }}</td>
+        <td><img src="{{ url_for('image', id=image.id) }}"/></td>
+      </tr>
+    {% endfor %}
+</table>
+
+{% endblock %}
