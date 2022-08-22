@@ -31,7 +31,7 @@ To install the python package, follow the instructions in the [wink README](http
 
 To build the C++ script:
 
-1. Install the OpenCV and Pylon 5
+1. Install [Pylon 5.2](https://www.baslerweb.com/pylon) and [Pylon Supplementary Package for MPEG-4](https://www.baslerweb.com/en/downloads/software-downloads/pylon-supplementary-package-for-mpeg4-linux-x86-64-bit/).
 2. Change your working directory: `cd wink/src/c++`
 3. To build the script, run `mkdir build && make build/Grab_MultipleCameras`. 
 
