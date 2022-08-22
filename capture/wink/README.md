@@ -8,7 +8,8 @@ A library for camera control and image capture.
 
 First, install Pylon and its Python wrapper:
 
- * Install [pylon](https://www.baslerweb.com/pylon).
+ * Install [Pylon 5.2](https://www.baslerweb.com/pylon).
+ * Install [Pylon Supplementary Package for MPEG-4](https://www.baslerweb.com/en/downloads/software-downloads/pylon-supplementary-package-for-mpeg4-linux-x86-64-bit/).
  * Download a binary wheel from the [releases](https://github.com/Basler/pypylon/releases) page. 
  * Install the wheel using ```pip3 install <your downloaded wheel>.whl```
 
