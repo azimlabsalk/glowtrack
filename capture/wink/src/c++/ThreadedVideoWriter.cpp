@@ -39,7 +39,12 @@ void ThreadedVideoWriter::SetParameter(uint32_t width, uint32_t height,
 }
 
 void ThreadedVideoWriter::Open(const Pylon::String_t &filename) {
-  videoWriter.Open(filename);
+  try {
+    videoWriter.Open(filename);
+  } catch (const GenericException& e) {
+    cout << e.what() << endl;
+    throw;
+  }
 }
 
 bool ThreadedVideoWriter::IsOpen() const {

@@ -50,7 +50,7 @@ using namespace std;
 using namespace Pylon;
 using namespace Basler_UsbCameraParams;
 
-static const size_t c_maxCamerasToUse = 8;
+static const size_t c_maxCamerasToUse = 7;
 static const uint32_t c_countOfImagesToGrab = 800 * c_maxCamerasToUse;
 // static const int everyNth = 1;
 // static const int bufferSize = 100;
@@ -68,7 +68,7 @@ int main(int argc, char* argv[])
     int exitCode = 0;
 
     // This is strangely needed to prevent "too many open files" errors.
-    system("ulimit -n 2048");
+    system("ulimit -n 4096");
 
     std::string data_dir(argv[1]);
 
@@ -202,7 +202,7 @@ int main(int argc, char* argv[])
             // The quality used for compressing the video.
             const uint32_t cQuality = 100;
 
-            shared_ptr<CVideoWriter> videoWriter(new CVideoWriter());
+            // shared_ptr<CVideoWriter> videoWriter(new CVideoWriter());
 
             shared_ptr<VideoInfo> info = make_shared<VideoInfo>();
             info->width = (uint32_t) width.GetValue();
@@ -231,17 +231,20 @@ int main(int argc, char* argv[])
         tuple_buffer->add_consumer(tuple_writer);
 
         // stop triggering
-        system("python -c 'from wink.triggers import ArduinoCameraTrigger; trigger = ArduinoCameraTrigger(); trigger.stop_triggering(); trigger.close()'");
+        //system("python -c 'from wink.triggers import ArduinoCameraTrigger; trigger = ArduinoCameraTrigger(); trigger.stop_triggering(); trigger.close()'");
 
         // grab frames
-        cerr << endl << "Press Enter to begin grabbing." << endl;
+        cerr << endl << "Press Enter to begin triggering the lights and cameras." << endl;
         while( cin.get() != '\n');
 
+        system("/home/mnle/anaconda3/envs/glowtrack/bin/python3 -c 'from wink.triggers import CerebroCameraTrigger; trigger = CerebroCameraTrigger(); trigger.initialize(); trigger.close()'");
+
         multi_cam->grab_frames(cameras);
-        system("python -c 'from wink.triggers import ArduinoCameraTrigger; trigger = ArduinoCameraTrigger(); trigger.start_triggering(); trigger.close()'");
+
+        system("/home/mnle/anaconda3/envs/glowtrack/bin/python3 -c 'from wink.triggers import CerebroCameraTrigger; trigger = CerebroCameraTrigger(); trigger.start_triggering(); trigger.close()'");
 
         // grab frames
-        cerr << endl << "Press Enter to begin grabbing." << endl;
+        cerr << endl << "Press Enter to begin capturing clips." << endl;
         while( cin.get() != '\n');
 
 
@@ -277,7 +280,8 @@ int main(int argc, char* argv[])
         multi_cam->stop(cameras);
 
         // stop triggering
-        system("python -c 'from wink.triggers import ArduinoCameraTrigger; trigger = ArduinoCameraTrigger(); trigger.stop_triggering()'");
+        system("/home/mnle/anaconda3/envs/glowtrack/bin/python3 -c 'from wink.triggers import CerebroCameraTrigger; trigger = CerebroCameraTrigger(); trigger.stop_triggering(); trigger.close()'");
+        //system("python -c 'from wink.triggers import ArduinoCameraTrigger; trigger = ArduinoCameraTrigger(); trigger.stop_triggering()'");
 
         cout << "writing" << endl;
         tuple_writer->startWriting();

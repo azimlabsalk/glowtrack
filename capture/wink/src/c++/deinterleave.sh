@@ -8,5 +8,5 @@ do
   DIR=`dirname $F`;
   mkdir $DIR/uv;
   mkdir $DIR/visible;
-  python ../python/wink/deinterlace.py $F $DIR/uv/video.mp4 $DIR/visible/video.mp4;
+  python ../python/wink/deinterleave.py $F $DIR/visible/video.mp4 $DIR/uv/video.mp4;
 done
