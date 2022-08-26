@@ -237,11 +237,11 @@ int main(int argc, char* argv[])
         cerr << endl << "Press Enter to begin triggering the lights and cameras." << endl;
         while( cin.get() != '\n');
 
-        system("/home/mnle/anaconda3/envs/glowtrack/bin/python3 -c 'from wink.triggers import CerebroCameraTrigger; trigger = CerebroCameraTrigger(); trigger.initialize(); trigger.close()'");
+        system("/home/mnle/anaconda3/envs/glowtrack/bin/python3 -c 'from wink.triggers import CerebroCameraTrigger; trigger = CerebroCameraTrigger(); trigger.initialize()'");
 
         multi_cam->grab_frames(cameras);
 
-        system("/home/mnle/anaconda3/envs/glowtrack/bin/python3 -c 'from wink.triggers import CerebroCameraTrigger; trigger = CerebroCameraTrigger(); trigger.start_triggering(); trigger.close()'");
+        system("/home/mnle/anaconda3/envs/glowtrack/bin/python3 -c 'from wink.triggers import CerebroCameraTrigger; trigger = CerebroCameraTrigger(); trigger.start_triggering()'");
 
         // grab frames
         cerr << endl << "Press Enter to begin capturing clips." << endl;
@@ -280,7 +280,7 @@ int main(int argc, char* argv[])
         multi_cam->stop(cameras);
 
         // stop triggering
-        system("/home/mnle/anaconda3/envs/glowtrack/bin/python3 -c 'from wink.triggers import CerebroCameraTrigger; trigger = CerebroCameraTrigger(); trigger.stop_triggering(); trigger.close()'");
+        system("/home/mnle/anaconda3/envs/glowtrack/bin/python3 -c 'from wink.triggers import CerebroCameraTrigger; trigger = CerebroCameraTrigger(); trigger.stop_triggering()'");
         //system("python -c 'from wink.triggers import ArduinoCameraTrigger; trigger = ArduinoCameraTrigger(); trigger.stop_triggering()'");
 
         cout << "writing" << endl;

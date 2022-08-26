@@ -47,7 +47,7 @@ class CerebroCameraTrigger(object):
 
     def initialize(self):
         # self.write_serial('c')
-        self.write_serial('x')
+        # self.write_serial('x')
         self.write_serial('e')
         self.write_serial('s 200 200 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 126 0 0 0 0 0 0 0 0 0 0 255 2500 5000 5050 7500 7500 10000 1000')
         # self.write_serial('s 200 200 126 126 126 126 126 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 126 126 126 126 126 126 126 126 126 126 0 0 0 0 0 0 0 0 0 0 255 2500 5000 5050 7500 7500 10000 1000')
@@ -61,7 +61,7 @@ class CerebroCameraTrigger(object):
         self.write_serial("x")
 
     def write_serial(self, command):
-        command = command + "\n"
+        # command = command + "\n"
         print('sending command: ' + command)
         self.serial.write(command.encode())
         self.serial.flush()
