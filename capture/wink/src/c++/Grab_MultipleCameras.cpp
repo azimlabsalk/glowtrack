@@ -50,7 +50,7 @@ using namespace std;
 using namespace Pylon;
 using namespace Basler_UsbCameraParams;
 
-static const size_t c_maxCamerasToUse = 7;
+static const size_t c_maxCamerasToUse = 8;
 static const uint32_t c_countOfImagesToGrab = 800 * c_maxCamerasToUse;
 // static const int everyNth = 1;
 // static const int bufferSize = 100;
