@@ -39,7 +39,7 @@ class CerebroCameraTrigger(object):
     def set_port(self, port):
         self.port = port
         self.serial = serial.Serial(port, 115200, timeout=10)
-        time.sleep(3)
+        time.sleep(2)
 
     def init_times(self):
         for i in range(len(time_values)):
@@ -64,7 +64,7 @@ class CerebroCameraTrigger(object):
         # command = command + "\n"
         print('sending command: ' + command)
         self.serial.write(command.encode())
-        self.serial.flush()
+        # self.serial.flush()
         return self.serial.readline()
 
     def set_time(self, idx, ms):

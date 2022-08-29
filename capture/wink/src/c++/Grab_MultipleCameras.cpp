@@ -237,17 +237,15 @@ int main(int argc, char* argv[])
         cerr << endl << "Press Enter to begin triggering the lights and cameras." << endl;
         while( cin.get() != '\n');
 
-        system("/home/mnle/anaconda3/envs/glowtrack/bin/python3 -c 'from wink.triggers import CerebroCameraTrigger; trigger = CerebroCameraTrigger(); trigger.initialize()'");
+        // system("/home/mnle/anaconda3/envs/glowtrack/bin/python3 -c 'from wink.triggers import CerebroCameraTrigger; trigger = CerebroCameraTrigger(); trigger.initialize(); import time; time.sleep(3)'");
 
         multi_cam->grab_frames(cameras);
 
-        system("/home/mnle/anaconda3/envs/glowtrack/bin/python3 -c 'from wink.triggers import CerebroCameraTrigger; trigger = CerebroCameraTrigger(); trigger.start_triggering()'");
+        system("/home/mnle/anaconda3/envs/glowtrack/bin/python3 -c 'from wink.triggers import CerebroCameraTrigger; trigger = CerebroCameraTrigger(); trigger.initialize(); trigger.start_triggering()'");
 
         // grab frames
         cerr << endl << "Press Enter to begin capturing clips." << endl;
         while( cin.get() != '\n');
-
-
 
         string user_string;
         while (true) {
