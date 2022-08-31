@@ -75,18 +75,28 @@ void MultiCamera::worker(CBaslerUsbInstantCameraArray* camerasPtr) {
   while(isGrabbing) {
       cameras.RetrieveResult( 5000, ptrGrabResult, TimeoutHandling_ThrowException);
 
-      intptr_t cameraContextValue = ptrGrabResult->GetCameraContext();
-
-      outfile << cameraContextValue << " " << ptrGrabResult->GetTimeStamp() << endl;
-
       shared_ptr<Frame> frame(new Frame);
       frame->image.CopyImage(ptrGrabResult);
-      frame->camera_context = cameraContextValue;
+      frame->camera_context = ptrGrabResult->GetCameraContext();
       frame->video_terminator = false;
+      frame->block_id = ptrGrabResult->GetBlockID();
+      frame->id = ptrGrabResult->GetID();
+      frame->image_number = ptrGrabResult->GetImageNumber();
+      frame->num_skipped_images = ptrGrabResult->GetNumberOfSkippedImages();
       emit(frame);
+
+      outfile << frame->camera_context
+	      << " " << ptrGrabResult->GetTimeStamp()
+	      << " " << frame->block_id
+	      << " " << frame->id
+	      << " " << frame->image_number
+	      << " " << frame->num_skipped_images
+	      << endl;
 
       // Print the index and the model name of the camera.
       // cout << "Camera " <<  cameraContextValue << ": " << cameras[cameraContextValue].GetDeviceInfo().GetModelName() << endl;
+
+      ptrGrabResult.Release();
   }
 
   cout << "Camera stage exiting." << endl;

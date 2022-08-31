@@ -8,18 +8,26 @@ path = sys.argv[1]
 with open(path, 'r') as f:
     lines = [line.strip() for line in f.readlines()]
 
-ms = 5
+data = [[int(s) for s in line.strip().split(' ')] for line in lines]
 
-times = [int(line) for line in lines]
-times = np.array(times)
+ms1 = 15
+ms2 = 5
+ncams = 8
 
-frame_lags = times[1:] - times[:-1]
-delta_t = ms * 1000000
-diffs = np.abs(frame_lags - delta_t)
-n_bad = np.sum(diffs > 50000)
+for cam in range(ncams):
 
-for diff in diffs:
-    print(diff)
+    times = [row[1] for row in data if row[0] == cam]
+    times = np.array(times)
 
-print('n_bad: {}'.format(n_bad))
+    frame_lags = times[1:] - times[:-1]
+    delta1 = ms1 * 1000000
+    delta2 = ms2 * 1000000
+    diffs1 = np.abs(frame_lags - delta1)
+    diffs2 = np.abs(frame_lags - delta2)
+    n_bad = np.sum(diffs1[::2] > 50000) + np.sum(diffs2[1::2] > 50000)
+
+#    for diff in diffs:
+#        print(diff)
+
+    print('n_bad / n_frames: {} / {}'.format(n_bad, len(times)))
 

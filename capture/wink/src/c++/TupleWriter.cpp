@@ -18,8 +18,8 @@ void TupleWriter::worker() {
       shared_ptr<TuplePair> tup = writeQueue.front();
       writeQueue.pop();
 
-      cout << "writing tuple of size " << tup->frame_tuple1->size() << endl;
-      assert(tup->frame_tuple1->size() == videoWriters->size());
+      // cout << "writing tuple of size " << tup->frame_tuple1->size() << endl;
+      // assert(tup->frame_tuple1->size() == videoWriters->size());
 
       bool clipDone = tup->frame_tuple1->at(0)->video_terminator;
       if (clipDone) {

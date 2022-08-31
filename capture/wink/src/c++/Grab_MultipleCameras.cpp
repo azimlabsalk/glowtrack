@@ -144,19 +144,22 @@ int main(int argc, char* argv[])
             camera.Width.SetValue(848);
             camera.Height.SetValue(848);
 
-            camera.TriggerMode.SetValue(Basler_UsbCameraParams::TriggerMode_On);
+	    camera.TriggerSelector.SetValue(TriggerSelector_FrameStart);
+            camera.TriggerMode.SetValue(TriggerMode_On);
             camera.TriggerSource.SetValue(TriggerSource_Line1);
+
+	    camera.ExposureMode.SetValue(ExposureMode_Timed);
             camera.ExposureTime.SetValue(1250.0);
 
             // set up sequencer sets with different gains
             cout << "creating sequencer sets for camera " << i << endl;
 
             camera.Gain.SetValue(30.0);
-            camera.SequencerSetSelector.SetValue(0);
+            camera.SequencerSetSelector.SetValue(1);
             camera.SequencerSetSave.Execute();
 
             camera.Gain.SetValue(10.0);
-            camera.SequencerSetSelector.SetValue(1);
+            camera.SequencerSetSelector.SetValue(0);
             camera.SequencerSetSave.Execute();
 
             // set up sequencer paths (path 0 (reset) triggered by software, path 1 a loop (0-1-0-1-...))
