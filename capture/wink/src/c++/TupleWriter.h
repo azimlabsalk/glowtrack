@@ -28,6 +28,7 @@ typedef vector<shared_ptr<Frame>> frame_tuple;
 typedef queue<shared_ptr<TuplePair>> tuple_queue;
 typedef vector<shared_ptr<VideoInfo>> video_info_vector;
 typedef vector<shared_ptr<ThreadedVideoWriter>> writer_group;
+typedef vector<shared_ptr<std::ofstream>> ofstream_group;
 
 class TupleWriter : public Consumer<TuplePair> {
   protected:
@@ -38,6 +39,7 @@ class TupleWriter : public Consumer<TuplePair> {
     std::shared_ptr<video_info_vector> videoInfos;
     std::shared_ptr<writer_group> videoWriters;
     std::shared_ptr<std::thread> writeThread;
+    std::shared_ptr<ofstream_group> textWriters;
     void initWriters();
   public:
     TupleWriter(std::string path, std::shared_ptr<video_info_vector> videoInfoVec);

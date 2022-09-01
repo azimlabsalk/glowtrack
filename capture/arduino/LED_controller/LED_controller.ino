@@ -610,6 +610,8 @@ void run_free(){
   //wait for zeroeth frame to start. 
   while(micros() < frame_start_us);
   
+//  for(frame=params_run.frame_count; frame>0; frame--) {
+
   while(true) {
     //check to see if the trial should be aborted
     if(Serial.available()){
@@ -687,6 +689,9 @@ void run_free(){
 //    reset_shift_registers();
 //    reset_shift_register_outputs();
   }
+
+  reset_shift_register_outputs();
+  reset_shift_registers();
   
   PRINTLN(F("END."));
 

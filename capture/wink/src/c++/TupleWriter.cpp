@@ -2,6 +2,7 @@
 #include <thread>
 #include <cassert>
 #include <chrono>
+#include <fstream>
 
 #include "TupleWriter.h"
 
@@ -47,6 +48,7 @@ TupleWriter::TupleWriter(std::string path,
   clipCount = 0;
   videoInfos = videoInfoVec;
   videoWriters = std::shared_ptr<writer_group>(new writer_group);
+  textWriters = std::shared_ptr<ofstream_group>(new ofstream_group);
   initWriters();
 }
 
@@ -70,6 +72,9 @@ void TupleWriter::initWriters() {
         info->cQuality );
 
     videoWriters->push_back(videoWriter);
+
+    shared_ptr<std::ofstream> textStream(new std::ofstream);
+    textWriters->push_back(textStream);
   }
 
 }
@@ -93,6 +98,11 @@ void TupleWriter::startNewClip() {
     videoWriters->at(i)->Open(videoPath.c_str());
     videoWriters->at(i)->startWriting();
 
+    // Open the text writer
+    std::ostringstream textPath;
+    textPath << basepath << "/clip" << clipCount << "/cam" << i << "/timestamps.txt";
+    textWriters->at(i)->open(textPath.str(), std::ios_base::out);
+
   }
   ++clipCount;
 }
@@ -101,6 +111,7 @@ void TupleWriter::endClip() {
   for (int i = 0; i < videoWriters->size(); ++i) {
     videoWriters->at(i)->wait();
     videoWriters->at(i)->Close();
+    textWriters->at(i)->close();
   }
 }
 
@@ -110,6 +121,21 @@ void TupleWriter::addTupleToClip(std::shared_ptr<TuplePair> tup) {
     std::shared_ptr<Frame> frame2 = tup->frame_tuple2->at(i);
     videoWriters->at(frame1->camera_context)->push(frame1);
     videoWriters->at(frame2->camera_context)->push(frame2);
+
+    (*(textWriters->at(i)))
+       << frame1->camera_context
+       << " " << frame1->timestamp
+       << " " << frame1->image_number
+       << " " << 1
+       << endl;
+
+    (*(textWriters->at(i)))
+       << frame2->camera_context
+       << " " << frame2->timestamp
+       << " " << frame2->image_number
+       << " " << 2
+       << endl;
+
   }
 }
 

@@ -83,6 +83,7 @@ void MultiCamera::worker(CBaslerUsbInstantCameraArray* camerasPtr) {
       frame->id = ptrGrabResult->GetID();
       frame->image_number = ptrGrabResult->GetImageNumber();
       frame->num_skipped_images = ptrGrabResult->GetNumberOfSkippedImages();
+      frame->timestamp = ptrGrabResult->GetTimeStamp();
       emit(frame);
 
       outfile << frame->camera_context
