@@ -583,6 +583,9 @@ void run_free(){
   uint32_t frame_start_us;
   uint32_t frame;
 
+  byte vis_idx = 0;
+  byte n_vis = 9;
+
   set_current_UV_mA(params_run.UV_mA);
   delay(100); 
   set_current_VIS_mA(params_run.VIS_mA);
@@ -637,7 +640,8 @@ void run_free(){
     reset_shift_register_outputs();
 
     //load visible LED & camera data
-    program_VIS_registers(&params_run.VIS_en[0]);
+    program_VIS_registers_active(vis_idx);
+    vis_idx = (vis_idx + 1) % n_vis;
     program_camera_reg(&params_run.camera_en);
 
     //update the frame start time

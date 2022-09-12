@@ -146,6 +146,19 @@ inline void program_VIS_registers(byte en[20]){
   }
 }
 
+inline void program_VIS_registers_active(byte idx){
+  byte i;
+  //load the VIS registers
+  for(i=20; i>0; i--){
+    if (i == idx) {
+      program_VIS_reg(126); // TODO: how do I get the all-on literal? 126 or 0x02 or 0xFF or what?
+    } else {
+      program_VIS_reg(0);
+    }
+  }
+}
+
+
 inline void program_UV_registers(byte en[20]){
   byte i;
   
