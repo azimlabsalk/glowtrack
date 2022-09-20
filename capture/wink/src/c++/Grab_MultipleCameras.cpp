@@ -155,11 +155,11 @@ int main(int argc, char* argv[])
             cout << "creating sequencer sets for camera " << i << endl;
 
             camera.Gain.SetValue(30.0);
-            camera.SequencerSetSelector.SetValue(1);
+            camera.SequencerSetSelector.SetValue(0);
             camera.SequencerSetSave.Execute();
 
             camera.Gain.SetValue(10.0);
-            camera.SequencerSetSelector.SetValue(0);
+            camera.SequencerSetSelector.SetValue(1);
             camera.SequencerSetSave.Execute();
 
             // set up sequencer paths (path 0 (reset) triggered by software, path 1 a loop (0-1-0-1-...))
@@ -250,6 +250,8 @@ int main(int argc, char* argv[])
         cerr << endl << "Press Enter to begin capturing clips." << endl;
         while( cin.get() != '\n');
 
+        tuple_writer->startWriting();
+
         string user_string;
         while (true) {
 
@@ -285,7 +287,7 @@ int main(int argc, char* argv[])
         //system("python -c 'from wink.triggers import ArduinoCameraTrigger; trigger = ArduinoCameraTrigger(); trigger.stop_triggering()'");
 
         cout << "writing" << endl;
-        tuple_writer->startWriting();
+//        tuple_writer->startWriting();
 
         cout << "wait until writer is done writing..." << endl;
         tuple_writer->wait();
