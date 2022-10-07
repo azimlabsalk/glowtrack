@@ -640,7 +640,7 @@ void run_free(){
     reset_shift_register_outputs();
 
     //load visible LED & camera data
-    program_VIS_registers_active(vis_idx);
+    program_VIS_registers_active(vis_idx + 1);
     vis_idx = (vis_idx + 1) % n_vis;
     program_camera_reg(&params_run.camera_en);
 
