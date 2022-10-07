@@ -103,6 +103,14 @@ void TupleWriter::startNewClip() {
     textPath << basepath << "/clip" << clipCount << "/cam" << i << "/timestamps.txt";
     textWriters->at(i)->open(textPath.str(), std::ios_base::out);
 
+    // Record camera pixel type path
+    std::ofstream writer;
+    std::ostringstream pixelTypeFilePath;
+    pixelTypeFilePath << basepath << "/clip" << clipCount << "/cam" << i << "/pixeltype.txt";
+    writer.open(pixelTypeFilePath.str(), std::ios_base::out);
+    writer << videoInfos->at(i)->pixelType << endl;
+    writer.close();
+
   }
   ++clipCount;
 }
