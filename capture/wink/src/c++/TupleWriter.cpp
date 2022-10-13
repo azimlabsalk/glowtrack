@@ -8,7 +8,7 @@
 
 void TupleWriter::worker() {
 
-  cout << "Writing images to files..." << endl;
+  // cout << "Writing images to files..." << endl;
 
   while (!writeQueue.empty() || !quitOnEmpty) {
 

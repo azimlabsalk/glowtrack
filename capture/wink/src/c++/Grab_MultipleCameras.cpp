@@ -158,7 +158,7 @@ int main(int argc, char* argv[])
             camera.SequencerSetSelector.SetValue(0);
             camera.SequencerSetSave.Execute();
 
-            camera.Gain.SetValue(10.0);
+            camera.Gain.SetValue(30.0);
             camera.SequencerSetSelector.SetValue(1);
             camera.SequencerSetSave.Execute();
 
@@ -246,16 +246,14 @@ int main(int argc, char* argv[])
 
         system("/home/mnle/anaconda3/envs/glowtrack/bin/python3 -c 'from wink.triggers import CerebroCameraTrigger; trigger = CerebroCameraTrigger(); trigger.initialize(); trigger.start_triggering()'");
 
-        // grab frames
-        cerr << endl << "Press Enter to begin capturing clips." << endl;
-        while( cin.get() != '\n');
+        cout << endl;
 
         tuple_writer->startWriting();
 
         string user_string;
         while (true) {
 
-          cout << "start clip? (return = Y, q = quit)" << endl;
+          cout << "Start recording? (type [return] for yes, type [q] + [return] to quit)" << endl;
           getline(cin, user_string);
           if (user_string.length() > 0 && user_string[0] == 'q') {
             break;
@@ -263,11 +261,12 @@ int main(int argc, char* argv[])
 
           tuple_buffer->passThroughMode();
 
-
-          cout << "stop clip? (return = Y)" << endl;
+          cout << "RECORDING CLIP..." << endl;
+          cout << "Stop recording? (type [return] for yes)" << endl;
           getline(cin, user_string);
           tuple_buffer->bufferingMode();
           tuple_buffer->emitTerminator();
+          cout << "...CLIP FINISHED" << endl;
 
           // else if (user_string.length() > 0 && user_string[0] == 'w') {
           //   cout << "writing" << endl;
@@ -279,7 +278,7 @@ int main(int argc, char* argv[])
           // }
         }
 
-        cout << "stopping cameras" << endl;
+        cout << "Stopping cameras" << endl;
         multi_cam->stop(cameras);
 
         // stop triggering
