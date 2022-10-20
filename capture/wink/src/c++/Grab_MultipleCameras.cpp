@@ -301,10 +301,6 @@ int main(int argc, char* argv[])
         exitCode = 1;
     }
 
-    // Comment the following two lines to disable waiting on exit.
-    cerr << endl << "Press Enter to exit." << endl;
-    while( cin.get() != '\n');
-
     // Releases all pylon resources.
     PylonTerminate();
 
